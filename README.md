@@ -38,3 +38,4 @@
 # 软件架构的类设计工具
 
   * [UML](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/UML/README)
+  * [真实软件项目开发流程--从需求到开发的每一步骤](http://www.youmeek.com/java-sofaware-engineer/)
