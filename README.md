@@ -32,9 +32,9 @@
 
 # [邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/邻域建模/README.md)
 # [确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
-# 概念架构设计
-# 细化架构设计
-# 架构验证
+# [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
+# [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
+# [架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 
 # 软件架构的类设计工具
 
