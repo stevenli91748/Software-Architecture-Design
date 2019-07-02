@@ -11,3 +11,4 @@
   
 <a href="https://ibb.co/Pw345Hn"><img src="https://i.ibb.co/FgNJBTM/ds-Buffer-bmp.png" alt="ds-Buffer-bmp" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice game online</a><br />
   
+<a href="https://ibb.co/hYD36jt"><img src="https://i.ibb.co/Hhn5Ssk/ds-Buffer1-bmp-2.png" alt="ds-Buffer1-bmp-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
