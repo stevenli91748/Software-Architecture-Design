@@ -7,7 +7,9 @@
   * 微服务架构
   * 云架构
 
-* 概念架构设计要明确的是“1 个决定， 4 个选择”
+
+* 概念架构设计要领 1： 功能需求与质量需求并重
+* 概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”
   
 <a href="https://ibb.co/Pw345Hn"><img src="https://i.ibb.co/FgNJBTM/ds-Buffer-bmp.png" alt="ds-Buffer-bmp" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice game online</a><br />
   
