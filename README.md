@@ -39,7 +39,7 @@
 
 # [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
 
-**关键功能，关键质量，概念架构出**
+ **关键功能，关键质量进，概念架构出**
 
 # [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
 # [架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
