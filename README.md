@@ -30,7 +30,13 @@
    * 需求验证
 
 # [邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/邻域建模/README.md)
+
+  **邻域建模决定系统功能的可扩展性**
+
 # [确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
+
+**关键需求决定架构，其余需求验证架构，确定关键需求，可谓小系统和大系统架构设计的分水岭，架构设计从此大不同**
+
 # [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
 # [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
 # [架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
