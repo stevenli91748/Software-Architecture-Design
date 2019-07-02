@@ -9,5 +9,5 @@
 
 * 概念架构设计要明确的是“1 个决定， 4 个选择”
   
- <a href="https://ibb.co/MkZmJWM"><img src="https://i.ibb.co/4RKH09P/ds-Buffer-bmp.png" alt="ds-Buffer-bmp" border="0"></a>
+<a href="https://ibb.co/Pw345Hn"><img src="https://i.ibb.co/FgNJBTM/ds-Buffer-bmp.png" alt="ds-Buffer-bmp" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice game online</a><br />
   
