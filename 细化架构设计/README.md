@@ -6,7 +6,9 @@
 
 <a href="https://ibb.co/25V4ncq"><img src="https://i.ibb.co/QXSwbY9/3.png" alt="3" border="0"></a>
 
- 每个视图都是 “组件 + 交互” 的一种体现
+ **5视图方法错落有致地将众多技术关注点划分成“群落”，“群落”内高聚合，“群落”间松耦合，有利于设计思维的“有序”展开**
+ 
+ **每个视图都是 “组件 + 交互” 的一种体现**
 
  * [逻辑视图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/逻辑视图.md) = 职责单元 + 协作关系
  * [物理视图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/物理视图.md) = 物理节点 + 拓扑连接关系
