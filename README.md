@@ -42,6 +42,9 @@
  **关键功能，关键质量进，概念架构出**，概念架构在系统设计中非常重要，因需求和设计之间存在一道无型的鸿沟，很多人在需求分析后不知道怎么做了。
 
 # [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
+
+****
+
 # [架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 
 # 软件架构的类设计工具
