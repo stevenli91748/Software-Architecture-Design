@@ -6,7 +6,12 @@
 目录
 ---
 
+
+
+
 # 需求工程
+
+需求工程要明确**功能 质量 约束**这三方面的需求
  
 ## [软件需求规划](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求规划/README.md)
   ![Imgur](https://farm8.staticflickr.com/7876/32567759858_2e4ec05b05_o.jpg)
