@@ -58,6 +58,14 @@
 
 # 软件架构的类设计工具
 
+
+
+# 参考的资料
+  * 系统架构设计-从程序员向架构师转型之路.pdf
+  * 软件是这样“炼”成的  从软件需求分析到软件架构设计.pdf
+  * software-architecture-patterns.pdf
+  * 软件需求十步走  新一代软件需求工程实践指南.pdf
+  * 软件架构设计(第二版)：程序员向架构师转型必备.pdf  温昱  
   * [UML](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/UML/README)
   * [真实软件项目开发流程--从需求到开发的每一步骤](http://www.youmeek.com/java-sofaware-engineer/)
   * [软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)
