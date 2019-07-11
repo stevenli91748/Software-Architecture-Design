@@ -77,7 +77,7 @@
 
 # [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
 
- **概念架构 各种需求包括关键需求 领域模型进，细化架构设计出**
+ **概念架构 各种需求包括关键需求 领域模型进，细化架构设计出**, 根据 5个视图，15个系统设计任务设计出**能实际指导团队并行开发的细化架构**。
 
 # [架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 
