@@ -76,6 +76,8 @@
 
 # [确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
 
+<a href="https://ibb.co/P4NsHpf"><img src="https://i.ibb.co/3W75ZXL/3.png" alt="3" border="0"></a>
+
 **关键需求决定架构，其余需求验证架构，确定关键需求，可谓小系统和大系统架构设计的分水岭，架构设计从此大不同** ，确定关键需求不仅要对功能需求（如用例需求）进行挑选，还要对质量需求 约束需求进行综合权衡，最终决定对软件架构起关健作用的需求子集。
 
 # [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
