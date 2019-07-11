@@ -40,7 +40,9 @@
 # 需求工程
 
 需求工程要明确**功能 质量 约束**这三方面的需求，全面认识需求并权衡不同需求之间的相互影响
- 
+
+<a href="https://ibb.co/5KftQnV"><img src="https://i.ibb.co/dmz1NLy/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host an image</a><br />
+
 ## [软件需求规划](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求规划/README.md)
   ![Imgur](https://farm8.staticflickr.com/7876/32567759858_2e4ec05b05_o.jpg)
   ![Imgur](https://farm8.staticflickr.com/7904/45527345245_21539d7bb5_o.jpg)
