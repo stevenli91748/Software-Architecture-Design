@@ -20,7 +20,7 @@
  
  * [开发视图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/开发视图.md) = 程序单元 + 编译依赖关系
    
-   为了满足**可展性，可重用性**等方面的**质量性需求**，必须运用**开发架构视图**深入研究软件系统开发期间的代码文件组织和框架使用，制定相应的设计决策。
+   为了满足**可扩展性，可重用性**等方面的**质量性需求**，必须运用**开发架构视图**深入研究软件系统开发期间的代码文件组织和框架使用，制定相应的设计决策。
    
  * [运行视图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/运行视图.md) = 控制流 + 同步关系
  
