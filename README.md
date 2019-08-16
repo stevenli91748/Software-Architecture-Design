@@ -139,3 +139,4 @@
   * [真实软件项目开发流程--从需求到开发的每一步骤](http://www.youmeek.com/java-sofaware-engineer/)
   * [软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)
   * [10个通用软件架构模式](https://www.jdon.com/artichect/architectural-patterns.html)
+  * [针对架构设计的几个痛点，我总结出的架构原则和模式](https://www.infoq.cn/article/several-pain-points-architecture-design)
