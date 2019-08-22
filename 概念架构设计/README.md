@@ -10,10 +10,14 @@
   * 微服务架构
   * 云架构
 
-
 * 概念架构设计要领 1： 功能需求与质量需求并重
-  * 如何从功能需求向设计过渡： 运用**鲁棒图建模技术**进行设计
+
+  * 2.1 功能性设计
   
+    如何从功能需求向设计过渡： 运用**鲁棒图建模技术**进行设计
+  
+    功能性设计的复杂度--功能越来越多，导致系统复杂度指数级上升
+    
     解决从功能需求向设计过渡问题就要用到“鲁棒图建模技术”，
     
     1. 鲁棒图(Robustness Diagram)---
@@ -21,7 +25,9 @@
     2. 软件系统的鲁棒性(Robustness)---软件“健壮性”， 指当错误发生时，系统依然正确运行功能的能力，从而将程序崩溃的危险减为系统不正常的危险。
     
   
-  * 如何从质量需求向设计过渡： 运用**目标--场景--决策表**进行设计
+  * 2.2 非功能性设计
+   
+    如何从质量需求向设计过渡： 运用**目标--场景--决策表**进行设计
     
     解决从质量需求向设计过渡问题就要用到“场景技术”，其关键是**使笼统的非功能目标明确化**，
     
@@ -42,7 +48,17 @@
     1. 场景卡： 是“关键点”（用于识别场景）
     
     2. 目标--场景--决策表： “纵贯线”（用于打通思维）
+
+    **系统非功能性设计的6个复杂度**
     
+    * 2.2.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
+    * 2.2.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
+    * 2.2.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
+    * 2.2.4.  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
+    * 2.2.5.  [高安全性架构](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
+    * 2.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
+
+
     
 * 概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”
   
@@ -54,7 +70,9 @@
    * 第二步： 基于"目标--场景--决策表"思维选择架构风格，划分顶级子系统
      <a href="https://ibb.co/j4XQpXR"><img src="https://i.ibb.co/Th37C3L/2.png" alt="2" border="0"></a>   
    * 第三步： 开发技术 集成技术与二次开发技术的选型
+   
  * 概念架构设计要领 3： 备选设计
+ 
    * 第四步： 基于“概念架构设计备选方案评审表”对三个备选方案进行评审，敲定概念架构方案
    
    <a href="https://ibb.co/S6XW04T"><img src="https://i.ibb.co/cycMtS5/ds-Buffer3-bmp-2.png" alt="ds-Buffer3-bmp-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload photo album online</a><br />
