@@ -72,7 +72,6 @@
    * 第三步： 开发技术 集成技术与二次开发技术的选型
    
  * 概念架构设计要领 3： 备选设计
- 
    * 第四步： 基于“概念架构设计备选方案评审表”对三个备选方案进行评审，敲定概念架构方案
    
    <a href="https://ibb.co/S6XW04T"><img src="https://i.ibb.co/cycMtS5/ds-Buffer3-bmp-2.png" alt="ds-Buffer3-bmp-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload photo album online</a><br />
