@@ -10,7 +10,7 @@
   * 微服务架构
   * 云架构
 
-* 概念架构设计要领 1： 功能需求与质量需求并重
+* [概念架构设计要领 1： 功能需求与质量需求并重---有的放矢，识别复杂度]()
 
   * 2.1 功能性设计
   
@@ -60,7 +60,7 @@
 
 
     
-* 概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”
+* [概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”]()
   
 <a href="https://ibb.co/Pw345Hn"><img src="https://i.ibb.co/FgNJBTM/ds-Buffer-bmp.png" alt="ds-Buffer-bmp" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice game online</a><br />
   
@@ -71,7 +71,8 @@
      <a href="https://ibb.co/j4XQpXR"><img src="https://i.ibb.co/Th37C3L/2.png" alt="2" border="0"></a>   
    * 第三步： 开发技术 集成技术与二次开发技术的选型
    
- * 概念架构设计要领 3： 备选设计
+ * [概念架构设计要领 3： 概念架构备选方案设计--设计备选方案]()
+ 
  * 第四步： 基于“概念架构设计备选方案评审表”对三个备选方案进行评审，敲定概念架构方案
    
    <a href="https://ibb.co/S6XW04T"><img src="https://i.ibb.co/cycMtS5/ds-Buffer3-bmp-2.png" alt="ds-Buffer3-bmp-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload photo album online</a><br />
@@ -136,7 +137,7 @@
        备，差异就很大； 而同样都采用Zoo Keeper ， 一个方案的节点设计是／service/node/master ，另一个方案的节点设计是/company/service/master，
        这两个方案并无明显差异，无须在备选方案设计阶段作为两个不同的备选方案，至于节点路径究竟如何设计，只要在最终的方案中挑选一个进行细化即可
    
-   
+   深思熟虑一一评估和选择备选万案
    
    
    
