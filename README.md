@@ -206,6 +206,7 @@
 
 
 # 参考的资料
+  * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
   * 系统架构设计-从程序员向架构师转型之路.pdf
   * 软件是这样“炼”成的  从软件需求分析到软件架构设计.pdf
   * software-architecture-patterns.pdf
