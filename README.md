@@ -221,3 +221,8 @@
   * [10个通用软件架构模式](https://www.jdon.com/artichect/architectural-patterns.html)
   * [针对架构设计的几个痛点，我总结出的架构原则和模式](https://www.infoq.cn/article/several-pain-points-architecture-design)
   * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
+ 
+  * [埋点系列1-埋点需求分析&设计埋点方案](https://www.jianshu.com/p/250001a9e57b)
+  * [埋点系列2-输出埋点需求文档](https://www.jianshu.com/p/063d8107d18a)
+  * [埋点系列3-埋点的框架设计及其准确性](https://www.jianshu.com/p/553ab7bb42c4)
+  * [埋点系列4-从埋点系统搭建到数据可视化落地](https://www.jianshu.com/p/2b43c823d059)
