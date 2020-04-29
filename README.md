@@ -208,6 +208,7 @@
   [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
 
 # 参考的资料
+  * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
   * [学完这100多技术，能当架构师么？](http://www.imooc.com/article/details/id/291107)
   * 系统架构设计-从程序员向架构师转型之路.pdf
