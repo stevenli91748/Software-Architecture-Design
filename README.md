@@ -7,8 +7,8 @@
 ---
 <a href="https://ibb.co/X20SnLf"><img src="https://i.ibb.co/4mvPbtw/2.png" alt="2" border="0"></a>
 
-[耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
----|
+[耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|
+---|---|---|
 
 
 软件架构设计为什麽难？因为它是跨越现实世界（问题领域）到计算机领域（解决方案）之间的一座桥，需求分析是明确“问题领域”，将要解决的问题以
