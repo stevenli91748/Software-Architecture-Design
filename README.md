@@ -10,6 +10,9 @@
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|
 ---|---|---|
 
+[软件架构设计模式]()|
+---|
+
 
 软件架构设计为什麽难？因为它是跨越现实世界（问题领域）到计算机领域（解决方案）之间的一座桥，需求分析是明确“问题领域”，将要解决的问题以
 "功能 + 质量 + 约束"的形式定义下来，但需求不管做得再细，也没有打破“系统是黑盒子”这一点，软件架构设计就是完成从面向问题领域到面向解决方案的转换
