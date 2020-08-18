@@ -10,7 +10,7 @@
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|
 ---|---|---|
 
-[软件架构设计模式]()|
+[软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|
 ---|
 
 
