@@ -186,6 +186,8 @@
    * 需求编写
    * 需求验证
 
+
+
 # [邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/邻域建模/README.md)
 
 <a href="https://ibb.co/6wvQfrc"><img src="https://i.ibb.co/NC1RHtg/2.png" alt="2" border="0"></a>
