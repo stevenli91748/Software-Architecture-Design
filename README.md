@@ -13,8 +13,8 @@
 [软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|[十种软件架构设计模式(Architectural Pattern)](https://www.cnblogs.com/IcanFixIt/p/7518146.html)|
 ---|---|
 
-[软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|
----|
+[软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|[程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)|
+---|---|
 
 软件架构设计为什麽难？因为它是跨越现实世界（问题领域）到计算机领域（解决方案）之间的一座桥，需求分析是明确“问题领域”，将要解决的问题以
 "功能 + 质量 + 约束"的形式定义下来，但需求不管做得再细，也没有打破“系统是黑盒子”这一点，软件架构设计就是完成从面向问题领域到面向解决方案的转换
@@ -217,6 +217,7 @@
   [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
 
 # 参考的资料
+  * [程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)
   * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
   * [学完这100多技术，能当架构师么？](http://www.imooc.com/article/details/id/291107)
