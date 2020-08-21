@@ -244,6 +244,7 @@
 
 # 参考的资料
   * [程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)
+  * [需求分析说明书和需求规格说明书](https://www.jianshu.com/p/26645058db08)
   * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
   * [学完这100多技术，能当架构师么？](http://www.imooc.com/article/details/id/291107)
