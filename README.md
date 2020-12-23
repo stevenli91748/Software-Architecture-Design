@@ -24,8 +24,8 @@
 [面对零售通如此复杂的业务场景，如何在架构和代码层面进行应对,结合实际的业务场景，我沉淀了一套“如何写复杂业务代码”的方法论,一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|
 
-[应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|
----|
+[应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|
+---|---|
 
 
 
