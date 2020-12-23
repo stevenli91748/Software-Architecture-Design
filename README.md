@@ -21,6 +21,11 @@
 [软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|[程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)|[四种软件架构演进史，程序员会一种就很牛了](https://juejin.im/post/6844903831659085832)|
 ---|---|---|
 
+[一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
+---|
+
+
+
 * [架构设计的目的](#架构设计的目的)
 * [设计架构的套路](#设计架构的套路)
 * [架构设计6个原则](#架构设计6个原则)
