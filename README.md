@@ -12,6 +12,10 @@
 
 <a href="https://ibb.co/rxLQHkx"><img src="https://i.ibb.co/fkKXHMk/2.png" alt="2" border="0"></a>
 
+
+[软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|
+---|
+
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|
 ---|---|---|
 
