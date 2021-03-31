@@ -16,8 +16,8 @@
 [软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|[看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
 ---|---|
 
-[耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|
----|---|---|
+[耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|[优秀的代码都是如何分层的？](https://developer.51cto.com/art/202103/652080.htm)|
+---|---|---|---|
 
 [软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|[十种软件架构设计模式(Architectural Pattern)](https://www.cnblogs.com/IcanFixIt/p/7518146.html)|
 ---|---|
