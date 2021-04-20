@@ -264,6 +264,7 @@
 
 # 参考的资料
   * [软件架构编年史：MVC及其变种](https://developer.51cto.com/art/202104/656839.htm)
+  * [MPP大规模并行处理架构详解](https://developer.51cto.com/art/202103/652932.htm)
   * [程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)
   * [需求分析说明书和需求规格说明书](https://www.jianshu.com/p/26645058db08)
   * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
