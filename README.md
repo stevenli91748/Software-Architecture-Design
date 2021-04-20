@@ -263,6 +263,7 @@
   [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
 
 # 参考的资料
+  * [软件架构编年史：MVC及其变种](https://developer.51cto.com/art/202104/656839.htm)
   * [程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)
   * [需求分析说明书和需求规格说明书](https://www.jianshu.com/p/26645058db08)
   * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
