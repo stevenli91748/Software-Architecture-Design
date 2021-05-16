@@ -46,6 +46,7 @@
 * [设计架构的套路](#设计架构的套路)
 * [架构设计6个原则](#架构设计6个原则)
 * [决定如何划分顶级子系统](#决定如何划分顶级子系统)
+* [设计模式](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)
 * 软件架构设计6步骤---从需求到架构验证
   * [1. 需求工程](#需求工程)
     * 软件需求规划
