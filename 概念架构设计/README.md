@@ -1,6 +1,20 @@
  <a href="https://ibb.co/ZH43f1T"><img src="https://i.ibb.co/CJCqws0/2.png" alt="2" border="0"></a>
  
+ # 概念架构图分类
  
+ <a href="https://ibb.co/pzpBL7f"><img src="https://i.ibb.co/cFdSrB6/image.png" alt="image" border="0"></a>
+ 
+ # 1. 概念架构选型图---通常在新项目开发初期，都要做一些技术选型工作。在负载、网关、架构、治理、框架、服务、数据以及环境和支撑服务上，要选择适合当前开发的技术
+ 
+ <a href="https://ibb.co/8K39m1C"><img src="https://i.ibb.co/YR9hNHC/image.png" alt="image" border="0"></a>
+ 
+ # 2. 微服务架构图---技术选型完毕后，接下来就是对于这些技术的运用。这个过程有点像搭积木一样，把每一个区域用适合此位置的积木填充进去。如果是团队初建或者是技术升级，那么这个过程还是比较复杂的，需要大量的验证。不过其实互联网的技术分层和使用已经相对稳定，搭建一个这样的微服务并不会耗费太长的时间
+ 
+ <a href="https://ibb.co/8635S2y"><img src="https://i.ibb.co/0hNMdZ0/image.png" alt="image" border="0"></a>
+ 
+ # 3. 技术架构图---技术架构图主要是对于研发层面做技术实现指导的，它可以把系统分层和实现结构划分清楚
+ 
+ <a href="https://ibb.co/P5GSJmY"><img src="https://i.ibb.co/30mJVrs/image.png" alt="image" border="0"></a>
  
  [概念架构图都画啥?](https://bugstack.cn/framework/2021/02/28/%E5%B7%A5%E4%BD%9C%E4%B8%A4%E4%B8%89%E5%B9%B4-%E6%95%B4%E4%B8%8D%E6%98%8E%E7%99%BD%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%83%BD%E7%94%BB%E5%95%A5.html)|
  ---|
