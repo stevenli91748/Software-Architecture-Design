@@ -23,11 +23,17 @@
  概念架构是直指系统设计目标的设计思想和重大选择---是关乎任何系统成败的最关健的 指向性的设计。必须同时重视关健功能和关键质量。要明确给出 **1 个决定  4 个选型（1 个 决定： 如何划分顶级子系统   4 个选型： 架构风格选型  开发技术选型   集成技术选型  二次开发技术选型）**
  
 * 最常见的软件架构
-  * 分层架构
-  * 事件驱动架构
-  * 微核架构
-  * 微服务架构
-  * 云架构
+  * 大型机架构风格（Mainframe）
+  * 原始分布式架构风格（Distributed）
+  * 大型单体架构风格（Monolithic）---Spring Boot
+  * SOA 时代: 面向服务架构风格（Service-Oriented）--- Spring Cloud
+    * 烟囱式架构（Information Silo Architecture）
+    * 微内核架构（Microkernel Architecture）
+    * 事件驱动架构（Event-Driven Architecture）
+  * [微服务架构风格（Microservices）---Kubernetes](https://github.com/stevenli91748/MicroService)
+  * 后微服务架构风格：云原生时代（Cloud Native）
+    * 服务网格架构风格（Service Mesh）---Istio
+  * 无服务架构风格（Serverless）---AWS lambda
 
 * 概念架构设计要领 1： 功能需求与质量需求并重---有的放矢，识别复杂度
 
