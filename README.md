@@ -272,6 +272,7 @@
   [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
 
 # 参考的资料
+  * [关于低代码编程的可持续性交付设计和分析](https://bugstack.cn/framework/2021/02/21/%E5%85%B3%E4%BA%8E%E4%BD%8E%E4%BB%A3%E7%A0%81%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7%E4%BA%A4%E4%BB%98%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%88%86%E6%9E%90.html)
   * [软件架构编年史：MVC及其变种](https://developer.51cto.com/art/202104/656839.htm)
   * [MPP大规模并行处理架构详解](https://developer.51cto.com/art/202103/652932.htm)
   * [程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)
