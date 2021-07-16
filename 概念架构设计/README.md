@@ -30,6 +30,7 @@
     * 烟囱式架构（Information Silo Architecture）
     * 微内核架构（Microkernel Architecture）
     * 事件驱动架构（Event-Driven Architecture）
+  * [领域驱动设计架构风格DDD](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
   * [微服务架构风格（Microservices）---Kubernetes](https://github.com/stevenli91748/MicroService)
   * 后微服务架构风格：云原生时代（Cloud Native）
     * 服务网格架构风格（Service Mesh）---Istio
