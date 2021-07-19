@@ -29,6 +29,8 @@
 [软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|[程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)|[四种软件架构演进史，程序员会一种就很牛了](https://juejin.im/post/6844903831659085832)|
 ---|---|---|
 
+
+
 [程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|
 ---|
 
