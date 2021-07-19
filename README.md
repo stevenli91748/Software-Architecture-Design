@@ -48,8 +48,8 @@
 
 ### UML工具
 
-[UML学习入门就这一篇文章](https://zhuanlan.zhihu.com/p/63147410)|
----|
+[UML学习入门就这一篇文章](https://zhuanlan.zhihu.com/p/63147410)|[活用类图——分析业务概念模型（图文）](http://www.douya2.com/goods/show/61?targetId=65&preview=0)|
+---|---|
 
 ---
 # 目录
