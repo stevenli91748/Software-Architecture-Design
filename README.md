@@ -13,6 +13,9 @@
 <a href="https://ibb.co/rxLQHkx"><img src="https://i.ibb.co/fkKXHMk/2.png" alt="2" border="0"></a>
 
 
+[软件设计是怎样炼成的---重要的思路](http://www.uml.org.cn/RequirementProject/201403271.asp)|
+---|
+
 [软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|[看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|[项目经理小姐姐非要给我讲一讲，项目开发规范和流程！---项目开发的工具](https://developer.51cto.com/art/202009/626353.htm)|
 ---|---|---|
 
@@ -25,8 +28,8 @@
 [软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|[程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)|[四种软件架构演进史，程序员会一种就很牛了](https://juejin.im/post/6844903831659085832)|
 ---|---|---|
 
-[程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|[软件设计是怎样炼成的](http://www.uml.org.cn/RequirementProject/201403271.asp)|
----|---|
+[程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|
+---|
 
 [面对零售通如此复杂的业务场景，如何在架构和代码层面进行应对,结合实际的业务场景，我沉淀了一套“如何写复杂业务代码”的方法论,一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|
