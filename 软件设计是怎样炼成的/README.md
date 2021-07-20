@@ -1,4 +1,6 @@
 
+[张传波的博客](https://www.cnblogs.com/umlonline/p/3548544.html)|[张传波的网站 豆芽儿-软件研发人才成长社区](http://www.douya2.com/article/131)|
+---|---|
 
 
 * [软件设计是怎样炼成的 1-4 ](http://www.uml.org.cn/RequirementProject/201403271.asp)
