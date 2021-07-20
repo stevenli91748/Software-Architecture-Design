@@ -16,7 +16,7 @@
 [张传波 软件设计是怎样炼成的---重要的思路](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84/README.md)|
 ---|
 
-[softwear archietcure good](http://wenku.uml.com.cn/index.asp)|
+[火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|
  ---|
  
 
