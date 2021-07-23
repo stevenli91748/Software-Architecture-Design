@@ -291,10 +291,11 @@
 # 软件架构的类设计工具
 
 # 软件架构视频
-
+  
   * [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
   * [软件设计是怎样炼成的](https://edu.51cto.com/course/5568.html)
 # 参考的资料
+  * [架结构分层：三层结构，DDD，MVC，MVVM，MVP](http://www.360doc.com/content/20/1114/16/37113458_945826321.shtml)
   * [关于低代码编程的可持续性交付设计和分析](https://bugstack.cn/framework/2021/02/21/%E5%85%B3%E4%BA%8E%E4%BD%8E%E4%BB%A3%E7%A0%81%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7%E4%BA%A4%E4%BB%98%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%88%86%E6%9E%90.html)
   * [软件架构编年史：MVC及其变种](https://developer.51cto.com/art/202104/656839.htm)
   * [MPP大规模并行处理架构详解](https://developer.51cto.com/art/202103/652932.htm)
