@@ -24,7 +24,6 @@
 
 
 * 最常见的软件架构
-  * [四种软件架构演进史，程序员会一种就很牛了](https://juejin.cn/post/6844903831659085832#heading-2)
   * 大型机架构风格（Mainframe）
   * 原始分布式架构风格（Distributed）
   * 大型单体架构风格（Monolithic）---Spring Boot
