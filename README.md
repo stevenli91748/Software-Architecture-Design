@@ -20,7 +20,7 @@
  ---|---|
  
 
-[软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|[看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|[项目经理小姐姐非要给我讲一讲，项目开发规范和流程！---项目开发的工具](https://developer.51cto.com/art/202009/626353.htm)|
+[软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|[MVC设计架构落地案例---看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|[项目经理小姐姐非要给我讲一讲，项目开发规范和流程！---项目开发的工具](https://developer.51cto.com/art/202009/626353.htm)|
 ---|---|---|
 
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|[阿里巴巴公司中优秀的代码都是如何分层的？](https://developer.51cto.com/art/202103/652080.htm)|
