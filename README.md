@@ -22,23 +22,30 @@
 [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)|[MVC设计架构落地案例---看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
  ---|---|
  
+[阿里巴巴公司中优秀的代码都是如何分层的？](https://developer.51cto.com/art/202103/652080.htm)|
+ ---|
 
-[软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|[项目经理小姐姐非要给我讲一讲，项目开发规范和流程！---项目开发的工具](https://developer.51cto.com/art/202009/626353.htm)|
+[软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|[程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|
 ---|---|
 
-[耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|[阿里巴巴公司中优秀的代码都是如何分层的？](https://developer.51cto.com/art/202103/652080.htm)|
----|---|---|---|
-
-[软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|[十种软件架构设计模式(Architectural Pattern)](https://www.cnblogs.com/IcanFixIt/p/7518146.html)|[Java架构：一文读懂微服务架构的重构策略](https://developer.51cto.com/art/201905/597080.htm)|
----|---|---|
-
-[软件架构入门](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)|[程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)|[四种软件架构演进史，程序员会一种就很牛了](https://juejin.im/post/6844903831659085832)|
+[软件开发模型的演化](https://insights.thoughtworks.cn/evolution-of-development-model/)|[十种软件架构设计模式(Architectural Pattern](https://www.cnblogs.com/IcanFixIt/p/7518146.html)|[四种软件架构演进史，程序员会一种就很牛了](https://juejin.im/post/6844903831659085832)|
 ---|---|---|
 
 
-
-[程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|
+[项目经理小姐姐非要给我讲一讲，项目开发规范和流程！---项目开发的工具](https://developer.51cto.com/art/202009/626353.htm)|
 ---|
+
+[耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Software Design Tutorial #1 ](https://www.youtube.com/watch?v=FLtqAi7WNBY&t=170s)|[Software Design Tutorial #2 ](https://www.youtube.com/watch?v=6thjSbJcoUc)|
+---|---|---|
+
+[软件架构设计模式(Architectural Pattern)不同于设计模式(Design Pattern)](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)|[Java架构：一文读懂微服务架构的重构策略](https://developer.51cto.com/art/201905/597080.htm)|
+---|---|
+
+[程序员转型架构师，推荐你读这几本书](https://segmentfault.com/a/1190000020720430)|
+---|
+
+
+
 
 [面对零售通如此复杂的业务场景，如何在架构和代码层面进行应对,结合实际的业务场景，我沉淀了一套“如何写复杂业务代码”的方法论,一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|
