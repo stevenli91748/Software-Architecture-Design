@@ -21,8 +21,8 @@
 <a href="https://ibb.co/NSXBMgD"><img src="https://i.ibb.co/74HmqxM/2.png" alt="2" border="0"></a>
 
 
-[火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|
- ---|---|
+[火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
+ ---|---|---|
 
 # 架构设计案例
 
