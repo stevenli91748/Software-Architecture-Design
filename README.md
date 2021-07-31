@@ -85,6 +85,25 @@
 * [设计模式](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)
 
 
+企业商务模型设计
+
+* 功能架构设计
+  * 功能设计
+  * 角色设计
+  * 资源权限设计
+
+用例及活动图设计
+
+领域架构设计
+
+接口模型设计
+
+分层模型设计
+
+业务代码
+
+
+
 
 * 软件架构设计6步骤---从需求到架构验证
   * [1. 需求工程](#需求工程)
