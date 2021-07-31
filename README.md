@@ -5,6 +5,7 @@
 
 # [最好的软件架构设计书籍](https://segmentfault.com/a/1190000011881339?utm_source=sf-related)
 
+# [架构师是怎样炼成的](https://www.jianshu.com/p/b94ac2e051b6)
 
 ---
 <a href="https://ibb.co/X20SnLf"><img src="https://i.ibb.co/4mvPbtw/2.png" alt="2" border="0"></a>
