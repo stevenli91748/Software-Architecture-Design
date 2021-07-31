@@ -22,43 +22,89 @@
  **关键功能，关键质量进，概念架构出**，概念架构在系统设计中非常重要，因需求和设计之间存在一道无型的鸿沟，很多人在需求分析后不知道怎么做了。
  概念架构是直指系统设计目标的设计思想和重大选择---是关乎任何系统成败的最关健的 指向性的设计。必须同时重视关健功能和关键质量。要明确给出 **1 个决定  4 个选型（1 个 决定： 如何划分顶级子系统   4 个选型： 架构风格选型  开发技术选型   集成技术选型  二次开发技术选型）**
 
+# [企业概念架构设计](https://www.jianshu.com/p/12770c880775)
+ * 概念架构设计要领
+   * [概念架构设计要领 1 ： 功能需求与质量需求并重---有的放矢，识别复杂度](#概念架构设计要领#1)
+   * 概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”
+   * 概念架构设计要领 3： 概念架构备选方案设计--设计备选方案
+   * 概念架构设计要领 4 : 深思熟虑一一评估和选择备选万案
+ * 1 功能架构设计
+     * [功能设计---功能设计上一般以模块为类别，由大模块开始不断下放到各个小功能最终组成功能性图表，同时展示了所有功能的从属关系](#功能设计)
+     * 角色设计---每一个系统都会进行角色设计，指的是系统里面有多少角色，一般角色在定义的时候是根据业务需要来制定。以**角色定义业务，以业务定义模型**
+     * 资源权限设计---针对不同人可以访问不同的资源权限，接口权限，数据权限等，从简单到复杂分为7种
+       * RBAC0模型
+       * RBAC1模型
+       * RBAC2模型
+       * RBAC3模型
+       * 组织
+       * 职位
+       * 含有组织/职位/用户组的模型 
+ * 2 用例及活动图设计---活动图是状态图的一种特殊形式
+     *  用例图设计---用例图是外部用户所能观察到的系统功能的模型图。用例图是系统的蓝图，主要用于对系统、子系统或类的功能行为进行建模，每一个用例图跟产品功能上存在对应关系
+     *  用例活动图设计---用例活动图是从用例图拓展而来，每一个用例图展开后即可变成用例活动图
+ * 3 领域架构设计
+     * 领域图的设计---领域图是从用例活动图演变而来，相对于用例图，它是整个用例的细化展示。领域图是应用程序中的业务逻辑模型，它的每一个对应的方框可大可小，或是子系统、或是服务、或是类库、或是
+                     单个类，实现微服务的本质性可伸缩性、可拓展性
+ * 4 接口模型设计---接口模型设计在现在的前后端分离的系统中是最重要的，直接关系到应用的便捷性,一种应用与外部世界的连接者，一种应用与其他应用的交互者，是让整个业务能成功流转起来的源头，但是接
+                   口并不关心里面的具体实现，这些是服务层的事
+     * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
+     * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
+ * 5 分层模型设计---分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计
+     * 大型机架构风格（Mainframe）
+     * 原始分布式架构风格（Distributed）
+     * 分层架构：大型单体架构风格（Monolithic）---Spring Boot
+     * SOA 时代: 面向服务架构风格（Service-Oriented）--- Spring Cloud
+       * 烟囱式架构（Information Silo Architecture）
+       * 微内核架构（Microkernel Architecture）
+       * 事件驱动架构（Event-Driven Architecture）
+     * [领域驱动设计架构风格DDD](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
+     * [微服务架构风格（Microservices）---Kubernetes](https://github.com/stevenli91748/MicroService)
+     * 后微服务架构风格：云原生时代（Cloud Native）
+       * 服务网格架构风格（Service Mesh）---Istio
+     * 无服务架构风格（Serverless）---AWS lambda
+ * 6 数据库设计
+     * E-R图设计
+     * 表设计
+     * 数据设计规范 
+ * 7 物理架构设计
+     * 部署图
+     * 高可用
+     * 集群部署图
+     * 域名 
+ * 8 [非功能性设计](#非功能性设计)---**系统非功能性设计的6个复杂度**
+     * 9.1  [高安全性架构---安全放在第一位](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
+     * 9.2  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
+     * 9.3  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
+     * 9.4  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
+     * 9.5  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
+     * 9.6  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
-* 最常见的软件架构
-  * 大型机架构风格（Mainframe）
-  * 原始分布式架构风格（Distributed）
-  * 分层架构：大型单体架构风格（Monolithic）---Spring Boot
-  * SOA 时代: 面向服务架构风格（Service-Oriented）--- Spring Cloud
-    * 烟囱式架构（Information Silo Architecture）
-    * 微内核架构（Microkernel Architecture）
-    * 事件驱动架构（Event-Driven Architecture）
-  * [领域驱动设计架构风格DDD](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
-  * [微服务架构风格（Microservices）---Kubernetes](https://github.com/stevenli91748/MicroService)
-  * 后微服务架构风格：云原生时代（Cloud Native）
-    * 服务网格架构风格（Service Mesh）---Istio
-  * 无服务架构风格（Serverless）---AWS lambda
 
-* 概念架构设计要领 1： 功能需求与质量需求并重---有的放矢，识别复杂度
 
-  * 2.1 功能性设计
+
+# 概念架构设计要领 1 ： 功能需求与质量需求并重---有的放矢，识别复杂度
+
+
+## 功能设计
   
-    如何从功能需求向设计过渡： 运用**鲁棒图建模技术**进行设计
+   如何从功能需求向设计过渡： 运用**鲁棒图建模技术**进行设计
   
-    功能性设计的复杂度--功能越来越多，导致系统复杂度指数级上升
+   功能性设计的复杂度--功能越来越多，导致系统复杂度指数级上升
     
-    解决从功能需求向设计过渡问题就要用到“鲁棒图建模技术”，
+   解决从功能需求向设计过渡问题就要用到“鲁棒图建模技术”，
     
-    1. 鲁棒图(Robustness Diagram)---
-    
-    2. 软件系统的鲁棒性(Robustness)---软件“健壮性”， 指当错误发生时，系统依然正确运行功能的能力，从而将程序崩溃的危险减为系统不正常的危险。
-    
-  
-  * 2.2 非功能性设计
+   1. 鲁棒图(Robustness Diagram)---
    
-    如何从质量需求向设计过渡： 运用**目标--场景--决策表**进行设计
+   2. 软件系统的鲁棒性(Robustness)---软件“健壮性”， 指当错误发生时，系统依然正确运行功能的能力，从而将程序崩溃的危险减为系统不正常的危险。
+   
+  
+## 非功能性设计
+   
+   如何从质量需求向设计过渡： 运用**目标--场景--决策表**进行设计
     
-    解决从质量需求向设计过渡问题就要用到“场景技术”，其关键是**使笼统的非功能目标明确化**，
+   解决从质量需求向设计过渡问题就要用到“场景技术”，其关键是**使笼统的非功能目标明确化**，
     
-    **包含5要素：**
+   **包含5要素：**
     
     1. 影响来源
     
@@ -70,24 +116,14 @@
     
     5. 所处环境
     
-    **场景思维的工具**
+   **场景思维的工具**
     
     1. 场景卡： 是“关键点”（用于识别场景）
     
     2. 目标--场景--决策表： “纵贯线”（用于打通思维）
 
-    **系统非功能性设计的6个复杂度**
     
-    * 2.2.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
-    * 2.2.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
-    * 2.2.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
-    * 2.2.4.  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
-    * 2.2.5.  [高安全性架构](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
-    * 2.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
-
-
-    
-* [概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”]()
+# 概念架构设计要领 2： 概念架构设计要明确的是“1 个决定， 4 个选择”
   
 <a href="https://ibb.co/Pw345Hn"><img src="https://i.ibb.co/FgNJBTM/ds-Buffer-bmp.png" alt="ds-Buffer-bmp" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice game online</a><br />
   
@@ -98,7 +134,7 @@
      <a href="https://ibb.co/j4XQpXR"><img src="https://i.ibb.co/Th37C3L/2.png" alt="2" border="0"></a>   
    * 第三步： 开发技术 集成技术与二次开发技术的选型
    
- * [概念架构设计要领 3： 概念架构备选方案设计--设计备选方案]()
+# 概念架构设计要领 3： 概念架构备选方案设计--设计备选方案
  
  * 第四步： 基于“概念架构设计备选方案评审表”对三个备选方案进行评审，敲定概念架构方案
    
@@ -164,7 +200,7 @@
        备，差异就很大； 而同样都采用Zoo Keeper ， 一个方案的节点设计是／service/node/master ，另一个方案的节点设计是/company/service/master，
        这两个方案并无明显差异，无须在备选方案设计阶段作为两个不同的备选方案，至于节点路径究竟如何设计，只要在最终的方案中挑选一个进行细化即可
    
-   * [概念架构设计要领 4 : 深思熟虑一一评估和选择备选万案]()
+# 概念架构设计要领 4 : 深思熟虑一一评估和选择备选万案
    
      完成备选方案设计后，如何挑选出最终的方案也是一个很大的挑战，主要原因如下：
      
