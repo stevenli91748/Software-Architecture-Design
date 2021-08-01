@@ -45,6 +45,16 @@
 [应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|[用架构方法实现业务架构与应用架构对准](https://www.jianshu.com/p/bf6aee11e51b)|
 ---|---|
 
+[业务-应用-数据-技术架构的正向设计方法](https://www.jianshu.com/p/464737435fab)|
+---|
+
+[架构设计实践五部曲（一）：架构与架构图](https://www.infoq.cn/article/b1fCLl8Mk9L9qe45Zxp6)|[架构设计实践五部曲（二）：业务架构与产品架构设计实践](https://www.infoq.cn/article/5A8LiWThDdHpkjeKgWLk?utm_source=related_read_bottom&utm_medium=article)|[架构设计实践五部曲（三）：从领域模型提取数据架构](https://www.infoq.cn/article/gecWdtRC85LD3kfXlWNU)|
+---|---|---|
+
+[架构设计实践五部曲（四）：单体式与分布式的应用架构](https://www.infoq.cn/article/ZzI05OBgks2kspUWa5y7)|[架构设计实践五部曲（五）：技术架构的战略和战术原则](https://www.infoq.cn/article/RQDwWxDcwbxtwU8LBFSG)|
+---|---|
+
+
 [都说软件架构要分层、分模块，具体应该怎么做之一](https://developer.51cto.com/art/202103/648661.htm)|[都说软件架构要分层、分模块，具体应该怎么做之二](https://developer.51cto.com/art/202103/649542.htm)|[业务架构实践：一步一步画出业务架构图](https://www.coollf.com/archives/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E7%94%BB%E5%87%BA%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE)|
 ---|---|---|
 
