@@ -262,7 +262,7 @@
 * [系统需求建模工具(中)](https://www.jianshu.com/p/ff2e6c16d249)
 * [系统需求建模工具(下之类图)](https://www.jianshu.com/p/ba31919b9352)
 * [系统需求建模工具(下之用例图)](https://www.jianshu.com/p/950ba229d037)
-
+* [产品需求文档的写法](https://www.jianshu.com/p/56277cf16ccf)
 
 ## [软件需求规划](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求规划/README.md)
   ![Imgur](https://farm8.staticflickr.com/7876/32567759858_2e4ec05b05_o.jpg)
