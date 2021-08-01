@@ -75,7 +75,7 @@
 
 # 架构常用的设计图
 
-* [架构师常用的设计图](https://cloud.tencent.com/developer/article/1073501)
+* [架构师常用的设计图工具和设计图分类](https://cloud.tencent.com/developer/article/1073501)
 * [架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)
 * [如何画出一张合格的技术架构图？](https://my.oschina.net/yunqi/blog/3035875)
 * [整不明白架构图都画啥](https://bugstack.cn/framework/2021/02/28/%E5%B7%A5%E4%BD%9C%E4%B8%A4%E4%B8%89%E5%B9%B4-%E6%95%B4%E4%B8%8D%E6%98%8E%E7%99%BD%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%83%BD%E7%94%BB%E5%95%A5.html)|
