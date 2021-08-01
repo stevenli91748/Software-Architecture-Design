@@ -42,8 +42,8 @@
 [面对零售通如此复杂的业务场景，如何在架构和代码层面进行应对,结合实际的业务场景，我沉淀了一套“如何写复杂业务代码”的方法论,一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|
  
-[应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|
----|
+[应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|[用架构方法实现业务架构与应用架构对准](https://www.jianshu.com/p/bf6aee11e51b)|
+---|---|
 
 [都说软件架构要分层、分模块，具体应该怎么做之一](https://developer.51cto.com/art/202103/648661.htm)|[都说软件架构要分层、分模块，具体应该怎么做之二](https://developer.51cto.com/art/202103/649542.htm)|[业务架构实践：一步一步画出业务架构图](https://www.coollf.com/archives/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E7%94%BB%E5%87%BA%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE)|
 ---|---|---|
