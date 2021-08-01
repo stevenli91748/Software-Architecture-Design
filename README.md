@@ -75,11 +75,11 @@
 
 # 架构常用的设计图
 
-* [架构师常用的设计图](https://www.jianshu.com/p/2a5d5ea93ebd)
+* [架构师常用的设计图](https://cloud.tencent.com/developer/article/1073501)
 * [架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)
 * [如何画出一张合格的技术架构图？](https://my.oschina.net/yunqi/blog/3035875)
 * [整不明白架构图都画啥](https://bugstack.cn/framework/2021/02/28/%E5%B7%A5%E4%BD%9C%E4%B8%A4%E4%B8%89%E5%B9%B4-%E6%95%B4%E4%B8%8D%E6%98%8E%E7%99%BD%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%83%BD%E7%94%BB%E5%95%A5.html)|
-* [设计图都不会画，还想做”架构师](https://cloud.tencent.com/developer/article/1073501)
+
 # UML工具
 
 [UML学习入门就这一篇文章](https://zhuanlan.zhihu.com/p/63147410)|[活用类图——分析业务概念模型（图文）](http://www.douya2.com/goods/show/61?targetId=65&preview=0)|
