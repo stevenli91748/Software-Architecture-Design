@@ -250,6 +250,12 @@
 
 <a href="https://ibb.co/0956JLx"><img src="https://i.ibb.co/B6kQsJ9/2.png" alt="2" border="0"></a>
 
+* [系统需求建模工具(上)](https://www.jianshu.com/p/9fea32da71ad)
+* [系统需求建模工具(中)](https://www.jianshu.com/p/ff2e6c16d249)
+* [系统需求建模工具(下之类图)](https://www.jianshu.com/p/ba31919b9352)
+* [系统需求建模工具(下之用例图)](https://www.jianshu.com/p/950ba229d037)
+
+
 ## [软件需求规划](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求规划/README.md)
   ![Imgur](https://farm8.staticflickr.com/7876/32567759858_2e4ec05b05_o.jpg)
   ![Imgur](https://farm8.staticflickr.com/7904/45527345245_21539d7bb5_o.jpg)
