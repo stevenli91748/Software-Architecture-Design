@@ -111,7 +111,7 @@
 * 软件架构设计8步骤---从需求到架构验证
   * [1. 需求工程](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E5%88%92/%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B.md)
   * [2. 邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E9%82%BB%E5%9F%9F%E5%BB%BA%E6%A8%A1/README.md)
-  * [3. 确定关键需求](#确定关键需求)
+  * [3. 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
   * [4. 概念架构设计==架构设计](#概念架构设计)
   * [5. 细化架构设计==模块设计](#细化架构设计)
   * [6. 数据库架构设计]()
@@ -125,12 +125,6 @@
 （进入系统黑盒子）
 
 ---
-
-# [确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
-
-<a href="https://ibb.co/P4NsHpf"><img src="https://i.ibb.co/3W75ZXL/3.png" alt="3" border="0"></a>
-
-**关键需求决定架构，其余需求验证架构，确定关键需求，可谓小系统和大系统架构设计的分水岭，架构设计从此大不同** ，确定关键需求不仅要对功能需求（如用例需求）进行挑选，还要对质量需求 约束需求进行综合权衡，最终决定对软件架构起关健作用的需求子集。
 
 # [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
 
