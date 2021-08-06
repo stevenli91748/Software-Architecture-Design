@@ -45,8 +45,8 @@
  * 3 领域架构设计
      * 领域图的设计---领域图是从用例活动图演变而来，相对于用例图，它是整个用例的细化展示。领域图是应用程序中的业务逻辑模型，它的每一个对应的方框可大可小，或是子系统、或是服务、或是类库、或是
                      单个类，实现微服务的本质性可伸缩性、可拓展性
- * 4 接口模型设计---接口模型设计在现在的前后端分离的系统中是最重要的，直接关系到应用的便捷性,一种应用与外部世界的连接者，一种应用与其他应用的交互者，是让整个业务能成功流转起来的源头，但是接
-                   口并不关心里面的具体实现，这些是服务层的事
+ * 4 [接口模型设计---接口模型设计在现在的前后端分离的系统中是最重要的，直接关系到应用的便捷性,一种应用与外部世界的连接者，一种应用与其他应用的交互者，是让整个业务能成功流转起来的源头，但是接
+                   口并不关心里面的具体实现，这些是服务层的事](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)
      * [企业中的 API 设计思路---以API 驱动的方式设计系统 ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
      * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/)
      * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
