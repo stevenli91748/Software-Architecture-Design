@@ -112,11 +112,11 @@
   * [1. 需求工程](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E5%88%92/%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B.md)
   * [2. 邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E9%82%BB%E5%9F%9F%E5%BB%BA%E6%A8%A1/README.md)
   * [3. 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
-  * [4. 概念架构设计==架构设计](#概念架构设计)
-  * [5. 细化架构设计==模块设计](#细化架构设计)
+  * [4. 概念架构设计==架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
+  * [5. 细化架构设计==模块设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
   * [6. 数据库架构设计]()
   * [7. 用户体验架构设计]()
-  * [8. 架构验证](#架构验证)
+  * [8. 架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 
 **我做的项目中通常每个项目至少需要1份架构设计文档、1份数据库设计文档、0到多份模块设计文档和1份用户体验设计文档**
 
@@ -125,29 +125,6 @@
 （进入系统黑盒子）
 
 ---
-
-# [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
-
-<a href="https://ibb.co/ZH43f1T"><img src="https://i.ibb.co/CJCqws0/2.png" alt="2" border="0"></a>
-
-<a href="https://ibb.co/8K39m1C"><img src="https://i.ibb.co/YR9hNHC/image.png" alt="image" border="0"></a>
-
- **关键功能，关键质量进，概念架构出**，概念架构在系统设计中非常重要，因需求和设计之间存在一道无型的鸿沟，很多人在需求分析后不知道怎么做了。
- 概念架构是直指系统设计目标的设计思想和重大选择---是关乎任何系统成败的最关健的 指向性的设计。必须同时重视关健功能和关键质量。要明确给出 **1 个决定  4 个选型（1 个 决定： 如何划分顶级子系统   4 个选型： 架构风格选型  开发技术选型   集成技术选型  二次开发技术选型）**
-
-# [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
-
-<a href="https://ibb.co/s9WBS96"><img src="https://i.ibb.co/XxYwBx3/2.png" alt="2" border="0"></a>
-
-<a href="https://ibb.co/25V4ncq"><img src="https://i.ibb.co/QXSwbY9/3.png" alt="3" border="0"></a>
-
- **概念架构 各种需求包括关键需求 领域模型进，细化架构设计出**, 根据 5个视图，15个系统设计任务设计出**能实际指导团队并行开发的细化架构**。
-
-# [架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
-
----
-
-# 软件架构的类设计工具
 
 # 软件架构视频
   
