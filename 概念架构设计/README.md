@@ -47,7 +47,9 @@
         [**用例图设计例子**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E7%94%A8%E4%BE%8B%E5%9B%BE%E8%AE%BE%E8%AE%A1%E4%BE%8B%E5%AD%90.md)
      
      *  用例活动图设计---用例活动图是从用例图拓展而来，每一个用例图展开后即可变成用例活动图,从两个角度来分析对用例活动图的内容
+                        
                         角度一: 产品经理从用例活动图，获取到的是整体或者个体的业务逻辑。
+                        
                         角度二：研发人员从用例活动图，获取到的是整体或者个体的程序上的业务逻辑 
         
         [**用例活动图设计例子**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E7%94%A8%E4%BE%8B%E6%B4%BB%E5%8A%A8%E5%9B%BE%E8%AE%BE%E8%AE%A1%E4%BE%8B%E5%AD%90.md)
