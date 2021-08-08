@@ -83,7 +83,7 @@
                    口并不关心里面的具体实现，这些是服务层的事](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)
      * [企业中的 API 设计思路---以API 驱动的方式设计系统 ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
      * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/)
-     * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
+     * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计---应用的多样化需要我们在对接口进行设计的时候多考虑接口的边界问题](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
      * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
  * 5 分层模型设计---分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计
      * 大型机架构风格（Mainframe）
