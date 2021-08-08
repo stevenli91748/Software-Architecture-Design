@@ -43,11 +43,14 @@
      *  用例图设计---用例图是外部用户所能观察到的系统功能的模型图。用例图是系统的蓝图，主要用于对系统、子系统或类的功能行为进行建模，每一个**用例图跟产品功能上存在对应关系**
                     用例图是指由参与者（Actor）、用例（Use Case），边界以及它们之间的关系构成的用于描述系统功能的视图。用例图（User Case）是外部用户（被称为参与者）所能观察到的系统功能的
                     模型图。用例图是系统的蓝图。用例图呈现了一些参与者，一些用例，以及它们之间的关系，主要用于对系统、子系统或类的功能行为进行建模
-                    [**用例图设计例子**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E7%94%A8%E4%BE%8B%E5%9B%BE%E8%AE%BE%E8%AE%A1%E4%BE%8B%E5%AD%90.md)
+                    
+        [**用例图设计例子**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E7%94%A8%E4%BE%8B%E5%9B%BE%E8%AE%BE%E8%AE%A1%E4%BE%8B%E5%AD%90.md)
+     
      *  用例活动图设计---用例活动图是从用例图拓展而来，每一个用例图展开后即可变成用例活动图,从两个角度来分析对用例活动图的内容
                         角度一: 产品经理从用例活动图，获取到的是整体或者个体的业务逻辑。
                         角度二：研发人员从用例活动图，获取到的是整体或者个体的程序上的业务逻辑 
-                        [**用例活动图设计例子**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E7%94%A8%E4%BE%8B%E6%B4%BB%E5%8A%A8%E5%9B%BE%E8%AE%BE%E8%AE%A1%E4%BE%8B%E5%AD%90.md)
+        
+        [**用例活动图设计例子**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E7%94%A8%E4%BE%8B%E6%B4%BB%E5%8A%A8%E5%9B%BE%E8%AE%BE%E8%AE%A1%E4%BE%8B%E5%AD%90.md)
                         
  * 3 领域架构设计
      * 领域图的设计---领域图是从用例活动图演变而来，相对于用例图，它是整个用例的细化展示。领域图是应用程序中的业务逻辑模型，它的每一个对应的方框可大可小，或是子系统、或是服务、或是类库、或是
