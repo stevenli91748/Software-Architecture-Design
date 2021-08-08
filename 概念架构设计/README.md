@@ -40,7 +40,7 @@
        * 职位
        * 含有组织/职位/用户组的模型 
 
-       [3大资源鉴权整合参考图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/3%E5%A4%A7%E8%B5%84%E6%BA%90%E9%89%B4%E6%9D%83%E6%95%B4%E5%90%88%E5%8F%82%E8%80%83%E5%9B%BE.md)
+       [菜单级别的权限设计, 接口权限设计, 数据权限设计, 3大资源鉴权整合参考图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/3%E5%A4%A7%E8%B5%84%E6%BA%90%E9%89%B4%E6%9D%83%E6%95%B4%E5%90%88%E5%8F%82%E8%80%83%E5%9B%BE.md)
  
  * 2 用例及活动图设计---活动图是状态图的一种特殊形式
      *  用例图设计---用例图是外部用户所能观察到的系统功能的模型图。用例图是系统的蓝图，主要用于对系统、子系统或类的功能行为进行建模，每一个**用例图跟产品功能上存在对应关系**
