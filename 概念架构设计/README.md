@@ -77,7 +77,7 @@
                      4、存在自己的领域逻辑，具像化来理解就是存在公共的与私有的方法
                      5、存在自己的领域服务，这个领域服务是静态方法static，并且这个方法可以单独放出来放到特定的服务类中
                    
-                     
+         [领域模型图举例](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B%E5%9B%BE.md)          
                      
  * 4 [接口模型设计---接口模型设计在现在的前后端分离的系统中是最重要的，直接关系到应用的便捷性,一种应用与外部世界的连接者，一种应用与其他应用的交互者，是让整个业务能成功流转起来的源头，但是接
                    口并不关心里面的具体实现，这些是服务层的事](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)
