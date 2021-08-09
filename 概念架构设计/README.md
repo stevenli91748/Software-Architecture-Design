@@ -80,7 +80,7 @@
          [领域模型图举例](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B%E5%9B%BE.md)          
                      
  * 4 [接口模型设计---接口模型设计在现在的前后端分离的系统中是最重要的，直接关系到应用的便捷性,一种应用与外部世界的连接者，一种应用与其他应用的交互者，是让整个业务能成功流转起来的源头，但是接
-                   口并不关心里面的具体实现，这些是服务层的事](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)
+                   口并不关心里面的具体实现，这些是服务层的事](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
      * [企业中的 API 设计思路---以API 驱动的方式设计系统 ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
      * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/)
      * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计---应用的多样化需要我们在对接口进行设计的时候多考虑接口的边界问题](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
