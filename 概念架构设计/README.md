@@ -31,7 +31,7 @@
  * 1 功能架构设计
      * [**功能设计**---功能设计上一般以模块为类别，由大模块开始不断下放到各个小功能最终组成功能性图表，同时展示了所有功能的从属关系](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1.md)
          
-     * **角色设计**---每一个系统都会进行角色设计，指的是系统里面有多少角色，一般角色在定义的时候是根据业务需要来制定。以**角色定义业务，以业务定义模型**
+     * [**角色设计**---每一个系统都会进行角色设计，指的是系统里面有多少角色，一般角色在定义的时候是根据业务需要来制定。以**角色定义业务，以业务定义模型**](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.md)
          
          [角色设计图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A13W%E5%8E%9F%E5%88%99%E4%B8%BE%E4%BE%8B.md)
      
