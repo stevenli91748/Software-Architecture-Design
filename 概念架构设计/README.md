@@ -93,11 +93,11 @@
      * 大型机架构风格（Mainframe）
      * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
      * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)
-     * [Spring Cloud 实现微服务架构](https://icyfenix.cn/architecture/architect-history/soa.html)
-     * [Kubernetes 为基础设施的微服务架构](https://icyfenix.cn/architecture/architect-history/microservices.html)
+     * [Spring Cloud 实现微服务架构](https://icyfenix.cn/exploration/projects/microservice_arch_springcloud.html)
+     * [Kubernetes 为基础设施的微服务架构](https://icyfenix.cn/exploration/projects/microservice_arch_kubernetes.html)
      * 后微服务架构风格：云原生时代（Cloud Native）
-       * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/architecture/architect-history/post-microservices.html)
-     * [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/architecture/architect-history/serverless.html)
+       * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/exploration/projects/servicemesh_arch_istio.html)
+     * [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/exploration/projects/serverless_arch.html)
      * CQRS模式架构
        * [SpringBoot+CQRS微服务设计模式教程](https://www.jdon.com/55380) 
  * 6 数据库设计
