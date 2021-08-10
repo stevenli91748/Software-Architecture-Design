@@ -29,7 +29,7 @@
    * [概念架构设计要领 三： 概念架构备选方案设计--设计备选方案](#概念架构设计要领三)
    * [概念架构设计要领 四 : 深思熟虑一一评估和选择备选万案](#概念架构设计要领四)
  * 1 功能架构设计
-     * [**功能设计**---功能设计上一般以模块为类别，由大模块开始不断下放到各个小功能最终组成功能性图表，同时展示了所有功能的从属关系](#功能设计)
+     * [**功能设计**---功能设计上一般以模块为类别，由大模块开始不断下放到各个小功能最终组成功能性图表，同时展示了所有功能的从属关系](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1.md)
          
          [功能架构设计图](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md) 
      
