@@ -86,16 +86,16 @@
      * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计---应用的多样化需要我们在对接口进行设计的时候多考虑接口的边界问题](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
      * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
  * 5 分层模型设计---分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计接口并不关心服务层的具体实现，但是分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计,除了在接口层做领域的区分外，其他的还是坚持原来的三层设计
-  * 大型机架构风格（Mainframe）
-  * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
-  * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)
-  * [Spring Cloud 实现微服务架构](https://icyfenix.cn/architecture/architect-history/soa.html)
-  * [Kubernetes 为基础设施的微服务架构](https://icyfenix.cn/architecture/architect-history/microservices.html)
-  * 后微服务架构风格：云原生时代（Cloud Native）
-    * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/architecture/architect-history/post-microservices.html)
-  * [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/architecture/architect-history/serverless.html)
-  * CQRS模式架构
-    * [SpringBoot+CQRS微服务设计模式教程](https://www.jdon.com/55380) 
+     * 大型机架构风格（Mainframe）
+     * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
+     * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)
+     * [Spring Cloud 实现微服务架构](https://icyfenix.cn/architecture/architect-history/soa.html)
+     * [Kubernetes 为基础设施的微服务架构](https://icyfenix.cn/architecture/architect-history/microservices.html)
+     * 后微服务架构风格：云原生时代（Cloud Native）
+       * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/architecture/architect-history/post-microservices.html)
+     * [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/architecture/architect-history/serverless.html)
+     * CQRS模式架构
+       * [SpringBoot+CQRS微服务设计模式教程](https://www.jdon.com/55380) 
  * 6 数据库设计
      * E-R图设计
      * 表设计
