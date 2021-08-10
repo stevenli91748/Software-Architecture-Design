@@ -89,7 +89,7 @@
      * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/)
      * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计---应用的多样化需要我们在对接口进行设计的时候多考虑接口的边界问题](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379) 
      * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
- * 5 分层模型设计---分层模型决定架构风格选型,分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计接口并不关心服务层的具体实现，但是分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计,除了在接口层做领域的区分外，其他的还是坚持原来的三层设计
+ * 5 [分层模型设计---分层模型决定架构风格选型,分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计接口并不关心服务层的具体实现，但是分层模型设计中关心的就是逻辑的具体实现。现在最常用的分层设计中，最常见的还是三层架构的设计,除了在接口层做领域的区分外，其他的还是坚持原来的三层设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E6%A6%82%E5%BF%B5%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%88%86%E5%B1%82%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1/%E5%88%86%E5%B1%82%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1.md)
      * 大型机架构风格（Mainframe）
      * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
      * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)
