@@ -20,7 +20,7 @@
  
  <a href="https://ibb.co/8635S2y"><img src="https://i.ibb.co/0hNMdZ0/image.png" alt="image" border="0"></a>
  
- ### 3. 技术架构图---技术架构图主要是对于研发层面做技术实现指导的，它可以把系统分层和实现结构划分清楚
+ ### 3. 技术架构图---技术架构图主要是对于研发层面做技术实现指导的，它可以把系统分层和实现结构划分清楚,是离程序员最近的架构设计，它不仅是系统搭建的架构图设计，还包括了结构、功能、流程、逻辑等内容。它的具体描述就是整个系统如何落地的具体实现方案
  
  <a href="https://ibb.co/P5GSJmY"><img src="https://i.ibb.co/30mJVrs/image.png" alt="image" border="0"></a>
  
