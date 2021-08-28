@@ -58,12 +58,17 @@
 [架构设计实践五部曲（四）：单体式与分布式的应用架构](https://www.infoq.cn/article/ZzI05OBgks2kspUWa5y7)|[架构设计实践五部曲（五）：技术架构的战略和战术原则](https://www.infoq.cn/article/RQDwWxDcwbxtwU8LBFSG)|
 ---|---|
 
+[国内主流在用的10大后台UI框架，私活必备](https://www.toutiao.com/a6822120255800738318/?log_from=1d7c99a84127f_1630175917915)|
+---|
+
 
 [都说软件架构要分层、分模块，具体应该怎么做之一](https://developer.51cto.com/art/202103/648661.htm)|[都说软件架构要分层、分模块，具体应该怎么做之二](https://developer.51cto.com/art/202103/649542.htm)|[业务架构实践：一步一步画出业务架构图](https://www.coollf.com/archives/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E7%94%BB%E5%87%BA%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE)|
 ---|---|---|
 
 [需求分析挑战之旅——疯狂的订餐系统](https://www.cnblogs.com/umlonline/archive/2011/08/01/2123656.html)|
 ---|
+
+
 
 
 # 软件架构模式分类
