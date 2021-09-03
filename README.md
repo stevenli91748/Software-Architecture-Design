@@ -95,6 +95,10 @@
 ---|
 
 
+# 软件测试
+
+* [2020 软件测试教程](https://www.kancloud.cn/apachecn/guru99-zh/1953496)
+
 # 架构常用的设计图
 
 * [架构师常用的设计图工具和设计图分类](https://cloud.tencent.com/developer/article/1073501)
