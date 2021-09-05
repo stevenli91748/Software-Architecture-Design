@@ -28,6 +28,10 @@
 [解道](https://www.jdon.com/designpatterns/)|
 ---|
 
+# 领域驱动设计架构(DDD)
+
+* [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
+
 
 # 架构设计案例
 
@@ -37,8 +41,8 @@
 [企业总体架构要如何做？小白也能快速领悟的设计思想](https://www.jianshu.com/p/12770c880775)|[架构师是怎样炼成的](https://www.jianshu.com/p/b94ac2e051b6)|
 ---|---|
 
-[领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)|[MVC设计架构落地案例---看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
- ---|---|
+[MVC设计架构落地案例---看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
+---|
  
 [阿里巴巴公司中优秀的代码都是如何分层的？](https://developer.51cto.com/art/202103/652080.htm)|[java web开发中的各种层](https://zhuanlan.zhihu.com/p/95059739)|[一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|---|---|
@@ -60,7 +64,6 @@
 
 [国内主流在用的10大后台UI框架，私活必备](https://www.toutiao.com/a6822120255800738318/?log_from=1d7c99a84127f_1630175917915)|
 ---|
-
 
 [都说软件架构要分层、分模块，具体应该怎么做之一](https://developer.51cto.com/art/202103/648661.htm)|[都说软件架构要分层、分模块，具体应该怎么做之二](https://developer.51cto.com/art/202103/649542.htm)|[业务架构实践：一步一步画出业务架构图](https://www.coollf.com/archives/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E7%94%BB%E5%87%BA%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE)|
 ---|---|---|
