@@ -28,6 +28,10 @@
 [解道](https://www.jdon.com/designpatterns/)|
 ---|
 
+# 在线书籍
+
+* [设计模式就该这样学：基于经典框架源码和真实业务场景](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
+
 # 领域驱动设计架构(DDD)
 
 * [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
