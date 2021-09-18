@@ -30,7 +30,8 @@
 
 # 在线书籍
 
-* [设计模式就该这样学：基于经典框架源码和真实业务场景](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
+* [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
+* [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
 
 # 领域驱动设计架构(DDD)
 
