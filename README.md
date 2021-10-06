@@ -25,8 +25,11 @@
 [火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
  ---|---|---|
 
-[解道](https://www.jdon.com/designpatterns/)|[UMLchina](http://www.umlchina.com/index.html)|
----|---|
+[解道](https://www.jdon.com/designpatterns/)|
+---|
+
+[UMLchina---潘加宇](http://www.umlchina.com/index.html)|[软件需求设计方法学全程实例剖析幻灯片---潘加宇](http://www.umlchina.com/training/slide.html)|[《软件方法》书中自测题-题目全文+分卷自测（1-8章）16套111题---潘加宇](https://mp.weixin.qq.com/s/Xj9YoZzuR-4loMXwBubEag)|
+---|---|---|
 
 # 在线书籍
 
