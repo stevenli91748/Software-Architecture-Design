@@ -31,8 +31,8 @@
 [UMLchina---潘加宇](http://www.umlchina.com/index.html)|[软件需求设计方法学全程实例剖析幻灯片---潘加宇](http://www.umlchina.com/training/slide.html)|[《软件方法》书中自测题-题目全文+分卷自测（1-8章）16套111题---潘加宇](https://mp.weixin.qq.com/s/Xj9YoZzuR-4loMXwBubEag)|
 ---|---|---|
 
-[[2020.01加一套题]UMLChina建模竞赛题大全-题目全文+分卷自测（11套110题）---潘加宇](https://mp.weixin.qq.com/s/GDfIMgdZ8VWWmrNF-axmsw)|
----|
+[[2020.01加一套题]UMLChina建模竞赛题大全-题目全文+分卷自测（11套110题）---潘加宇](https://mp.weixin.qq.com/s/GDfIMgdZ8VWWmrNF-axmsw)|[UMLChina建模竞赛题答案及解析------潘加宇](http://www.umlchina.com/training/quizanswer.html)|
+---|---|
 
 
 # 在线书籍
