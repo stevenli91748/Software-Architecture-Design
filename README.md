@@ -43,6 +43,8 @@
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
 * [Spring 微服务架构设计---2020 如何用SpringBoot 和 Spring Cloud 开发微服务系统，如何演进微服务，微服务的日志管理和监控，如何用Docker, Mesos 和 Marathon管理互联网级微服务架构](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8kc81322c012c81e728d9d180)
 * [软件架构设计：大型网站技术架构与业务架构融合之道](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
+* [一线架构师实践指南---温立](https://weread.qq.com/web/reader/db3328605a078edb31ea6ac)
+* [软件架构设计（第2版---温立）](https://weread.qq.com/web/reader/5f232ac05a60095f2080a26)
 * [软件方法： 业务建模和需求---重点讲业务建模 系统建模 业务用例 业务时序图 需求用例等知识](https://weread.qq.com/web/reader/4be329b07198d7344beb216)
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 * [架构解密： 从分布式到微服务（第2版）---2020 不论你是有十几年研发经验及架构经验的IT老手，还是刚入门系统架构的IT新手，本书都能对你理解分布式架构和微服务架构大有助益，对分布式、微服务、云原生、K8s、Service Mesh等发展脉络和原理进行深度解密 ](https://weread.qq.com/web/reader/26a3299071eeef0026a40f1kc81322c012c81e728d9d180)
