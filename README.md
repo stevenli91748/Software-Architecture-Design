@@ -54,9 +54,13 @@
 * [系统架构设计---2017](https://weread.qq.com/web/reader/86832620717d308a868f221)
 * [企业互联网架构原理---2021](https://weread.qq.com/web/reader/95c324307264001095c6f30kc81322c012c81e728d9d180)
 * [超大流量分布式系统架构解决方案： 人人都是架构师2.0---2020](https://weread.qq.com/web/reader/068328c071e072b10685247)
-
-
-
+* [复杂软件设计之道： 邻域驱动设计全面解析与实战---2020](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
+* [深入实践DDD: 以DSL驱动复杂软件开发---2021](https://weread.qq.com/web/reader/3f232740723b60233f23504)
+* [架构真意：企业级应用架构设计方法论与实践---2021](https://weread.qq.com/web/reader/1c8329d072599d741c81d96kc81322c012c81e728d9d180)
+* [软件架构设计： 大型网站技术架构与业务架构融合之道---2018](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
+* [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
+* [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
+* 
 # 领域驱动设计架构(DDD)
 
 * [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
