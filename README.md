@@ -42,6 +42,7 @@
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
 * [软件架构设计：大型网站技术架构与业务架构融合之道](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
 * [软件方法： 业务建模和需求---重点讲业务建模 系统建模 业务用例 业务时序图 需求用例等知识](https://weread.qq.com/web/reader/4be329b07198d7344beb216)
+* [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 
 # 领域驱动设计架构(DDD)
 
