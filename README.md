@@ -41,6 +41,7 @@
 * [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
 * [微服务设计： 企业架构转型之道---2019 如何规划企业架构 ，包括业务架构 因用架构 数据架构 和技术架构， 企业架构的服务化过程 以及其完成后的企业服务架构的微服务过程 企业微服务架构的治理和管理](https://weread.qq.com/web/reader/61d32d70719c260961d4b33kc81322c012c81e728d9d180)
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
+* [Spring 微服务架构设计---2020 如何用SpringBoot 和 Spring Cloud 开发微服务系统，如何演进微服务，微服务的日志管理和监控，如何用Docker, Mesos 和 Marathon管理互联网级微服务架构](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8kc81322c012c81e728d9d180)
 * [软件架构设计：大型网站技术架构与业务架构融合之道](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
 * [软件方法： 业务建模和需求---重点讲业务建模 系统建模 业务用例 业务时序图 需求用例等知识](https://weread.qq.com/web/reader/4be329b07198d7344beb216)
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
