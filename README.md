@@ -49,7 +49,11 @@
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 * [架构解密： 从分布式到微服务（第2版）---2020 不论你是有十几年研发经验及架构经验的IT老手，还是刚入门系统架构的IT新手，本书都能对你理解分布式架构和微服务架构大有助益，对分布式、微服务、云原生、K8s、Service Mesh等发展脉络和原理进行深度解密 ](https://weread.qq.com/web/reader/26a3299071eeef0026a40f1kc81322c012c81e728d9d180)
 * [实用软件架构： 从系统环境到软件部署---IBM 工程师所写](https://weread.qq.com/web/reader/b9232490718f6371b9291ff)
-
+* [架构整洁之道---2018](https://weread.qq.com/web/reader/480322f072021a3248038c8)
+* [大型网站技术架构--李智慧](https://weread.qq.com/web/reader/cc1326e05bcc52cc1669fc0)
+* [系统架构设计---2017](https://weread.qq.com/web/reader/86832620717d308a868f221)
+* [企业互联网架构原理---2021](https://weread.qq.com/web/reader/95c324307264001095c6f30kc81322c012c81e728d9d180)
+* [超大流量分布式系统架构解决方案： 人人都是架构师2.0---2020](https://weread.qq.com/web/reader/068328c071e072b10685247)
 
 
 
