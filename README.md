@@ -72,7 +72,7 @@
 * [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
 * [SOA架构： 服务和微服务分析及设计---2017](https://weread.qq.com/web/reader/9ec32e50720bfc6d9eceb32)
 * [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
-
+* [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
 
 # 领域驱动设计架构(DDD)
 
