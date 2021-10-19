@@ -43,6 +43,7 @@
 ## 软件架构设计
 * [Serverless架构---2020](https://weread.qq.com/web/reader/c8a32e205e2f83c8a87fa85)
 * [Serverless工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
+* [Serverless架构： 从原理，设计到项目实战 ](https://weread.qq.com/web/reader/4383249071a74c67438c595)
 * [Spring微服务架构设计---2020](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8)
 * [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
 * [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
