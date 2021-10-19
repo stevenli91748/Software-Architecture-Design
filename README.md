@@ -37,7 +37,10 @@
 
 # 在线书籍
 
+## 设计模式
 * [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
+* [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
+## 软件架构设计
 * [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
 * [微服务设计： 企业架构转型之道---2019 如何规划企业架构 ，包括业务架构 因用架构 数据架构 和技术架构， 企业架构的服务化过程 以及其完成后的企业服务架构的微服务过程 企业微服务架构的治理和管理](https://weread.qq.com/web/reader/61d32d70719c260961d4b33kc81322c012c81e728d9d180)
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
@@ -46,7 +49,6 @@
 * [一线架构师实践指南---温立](https://weread.qq.com/web/reader/db3328605a078edb31ea6ac)
 * [软件架构设计（第2版---温立）](https://weread.qq.com/web/reader/5f232ac05a60095f2080a26)
 * [软件方法： 业务建模和需求---重点讲业务建模 系统建模 业务用例 业务时序图 需求用例等知识](https://weread.qq.com/web/reader/4be329b07198d7344beb216)
-* [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 * [架构解密： 从分布式到微服务（第2版）---2020 不论你是有十几年研发经验及架构经验的IT老手，还是刚入门系统架构的IT新手，本书都能对你理解分布式架构和微服务架构大有助益，对分布式、微服务、云原生、K8s、Service Mesh等发展脉络和原理进行深度解密 ](https://weread.qq.com/web/reader/26a3299071eeef0026a40f1kc81322c012c81e728d9d180)
 * [实用软件架构： 从系统环境到软件部署---IBM 工程师所写](https://weread.qq.com/web/reader/b9232490718f6371b9291ff)
 * [架构整洁之道---2018](https://weread.qq.com/web/reader/480322f072021a3248038c8)
@@ -60,7 +62,9 @@
 * [软件架构设计： 大型网站技术架构与业务架构融合之道---2018](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
 * [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
-* 
+* [SOA架构： 服务和微服务分析及设计---2017](https://weread.qq.com/web/reader/9ec32e50720bfc6d9eceb32)
+
+
 # 领域驱动设计架构(DDD)
 
 * [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
