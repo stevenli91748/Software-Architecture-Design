@@ -71,6 +71,7 @@
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
 * [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
 * [SOA架构： 服务和微服务分析及设计---2017](https://weread.qq.com/web/reader/9ec32e50720bfc6d9eceb32)
+* [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
 
 
 # 领域驱动设计架构(DDD)
