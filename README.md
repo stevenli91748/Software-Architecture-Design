@@ -77,7 +77,11 @@
 # 领域驱动设计架构(DDD)
 
 * [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
-
+* [DDD中聚合、聚合根的含义以及作用](https://www.cnblogs.com/Courage129/p/14861100.html)
+* [DDD中实体与值对象是干什么的](https://www.cnblogs.com/Courage129/p/14855483.html)
+* [DDD中限界上下文与通用语言的作用](https://www.cnblogs.com/Courage129/p/14854367.html)
+* [DDD划分领域、子域、核心域、支撑域的目的](https://www.cnblogs.com/Courage129/p/14853600.html)
+* [DDD兴起的原因以及与微服务的关系](https://www.cnblogs.com/Courage129/p/14839544.html)
 
 # 架构设计案例
 
