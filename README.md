@@ -82,6 +82,7 @@
 * [DDD中限界上下文与通用语言的作用](https://www.cnblogs.com/Courage129/p/14854367.html)
 * [DDD划分领域、子域、核心域、支撑域的目的](https://www.cnblogs.com/Courage129/p/14853600.html)
 * [DDD兴起的原因以及与微服务的关系](https://www.cnblogs.com/Courage129/p/14839544.html)
+* [Spring Cloud与领域驱动实践](https://weread.qq.com/web/reader/71d32370716443e271df020k7ef321f02967ef605fc8aef)
 
 # 架构设计案例
 
