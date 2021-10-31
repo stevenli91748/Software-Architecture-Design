@@ -83,6 +83,7 @@
 * [DDD划分领域、子域、核心域、支撑域的目的](https://www.cnblogs.com/Courage129/p/14853600.html)
 * [DDD兴起的原因以及与微服务的关系](https://www.cnblogs.com/Courage129/p/14839544.html)
 * [Spring Cloud与领域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
+* [DDD框架中的CQRS设计原理解析](https://weread.qq.com/web/reader/71d32370716443e271df020kb3e32dc0299b3e3e393ce03)
 
 # 架构设计案例
 
@@ -179,6 +180,8 @@
   * [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/exploration/projects/serverless_arch.html)
   * CQRS模式架构
     * [SpringBoot+CQRS微服务设计模式教程](https://www.jdon.com/55380) 
+    * [DDD框架中的CQRS设计原理解析](https://weread.qq.com/web/reader/71d32370716443e271df020kb3e32dc0299b3e3e393ce03)
+      *  
 * [设计架构的套路](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E5%A5%97%E8%B7%AF.md)
 * [架构设计6个原则](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A16%E4%B8%AA%E5%8E%9F%E5%88%99.md)
 * [决定如何划分顶级子系统](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E5%86%B3%E5%AE%9A%E5%A6%82%E4%BD%95%E5%88%92%E5%88%86%E9%A1%B6%E7%BA%A7%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
