@@ -83,7 +83,7 @@
 * [DDD划分领域、子域、核心域、支撑域的目的](https://www.cnblogs.com/Courage129/p/14853600.html)
 * [DDD兴起的原因以及与微服务的关系](https://www.cnblogs.com/Courage129/p/14839544.html)
 * [Spring Cloud与领域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
-* [DDD框架中的CQRS设计原理解析](https://weread.qq.com/web/reader/71d32370716443e271df020kb3e32dc0299b3e3e393ce03)
+
 
 # 架构设计案例
 
