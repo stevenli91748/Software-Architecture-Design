@@ -60,6 +60,7 @@
 * [Serverless架构：无服务应用与AWS Lambda](https://weread.qq.com/web/reader/acb32da071dbdd99acb7f9b)
 * [Service Mesh实战：基于Linkerd和kubernetes的微服务实践](https://weread.qq.com/web/reader/743329b0716983fb7437b63)
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
+* [Istio服务网络技术解析与实践](https://weread.qq.com/web/reader/20c3266071c94f5b20c1306kc81322c012c81e728d9d180)
 * [Spring微服务架构设计---2020](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8)
 * [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
 * [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
