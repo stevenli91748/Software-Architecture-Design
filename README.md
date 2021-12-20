@@ -105,8 +105,8 @@
 [企业总体架构要如何做？小白也能快速领悟的设计思想](https://www.jianshu.com/p/12770c880775)|[架构师是怎样炼成的](https://www.jianshu.com/p/b94ac2e051b6)|
 ---|---|
 
-[MVC设计架构落地案例---看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
----|
+[MVC设计架构落地案例---看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|[MVC架构杂谈](https://www.kancloud.cn/kancloud/mac)|
+---|---|
  
 [阿里巴巴公司中优秀的代码都是如何分层的？](https://developer.51cto.com/art/202103/652080.htm)|[java web开发中的各种层](https://zhuanlan.zhihu.com/p/95059739)|[一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|---|---|
