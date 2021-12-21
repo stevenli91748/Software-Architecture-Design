@@ -117,8 +117,8 @@
 [应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|[用架构方法实现业务架构与应用架构对准](https://www.jianshu.com/p/bf6aee11e51b)|
 ---|---|
 
-[业务-应用-数据-技术架构的正向设计方法](https://www.jianshu.com/p/464737435fab)|
----|
+[业务-应用-数据-技术架构的正向设计方法](https://www.jianshu.com/p/464737435fab)|[解剖实体框架](https://www.kancloud.cn/digest/frame)|
+---|---|
 
 [架构设计实践五部曲（一）：架构与架构图](https://www.infoq.cn/article/b1fCLl8Mk9L9qe45Zxp6)|[架构设计实践五部曲（二）：业务架构与产品架构设计实践](https://www.infoq.cn/article/5A8LiWThDdHpkjeKgWLk?utm_source=related_read_bottom&utm_medium=article)|[架构设计实践五部曲（三）：从领域模型提取数据架构](https://www.infoq.cn/article/gecWdtRC85LD3kfXlWNU)|
 ---|---|---|
