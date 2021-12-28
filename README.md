@@ -93,6 +93,8 @@
 
 * [领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
 
+# 多租户技术或称多重租赁技术，简称SaaS
+* [多租户技术或称多重租赁技术，简称SaaS架构](https://www.kancloud.cn/zlt2000/microservices-platform/1224729)
 
 # 架构设计案例
 
