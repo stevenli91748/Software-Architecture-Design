@@ -126,6 +126,9 @@
 [业务-应用-数据-技术架构的正向设计方法](https://www.jianshu.com/p/464737435fab)|[解剖实体框架](https://www.kancloud.cn/digest/frame)|
 ---|---|
 
+[我是怎么画架构图的](https://mp.weixin.qq.com/s/0jOIU605OD1UYZrnUcPzng)|
+---|
+
 [架构设计实践五部曲（一）：架构与架构图](https://www.infoq.cn/article/b1fCLl8Mk9L9qe45Zxp6)|[架构设计实践五部曲（二）：业务架构与产品架构设计实践](https://www.infoq.cn/article/5A8LiWThDdHpkjeKgWLk?utm_source=related_read_bottom&utm_medium=article)|[架构设计实践五部曲（三）：从领域模型提取数据架构](https://www.infoq.cn/article/gecWdtRC85LD3kfXlWNU)|
 ---|---|---|
 
