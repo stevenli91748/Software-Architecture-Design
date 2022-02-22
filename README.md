@@ -215,8 +215,8 @@
   * [3. 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
   * [4. 概念架构设计==分层架构设计和API设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
   * [5. 细化架构设计==模块设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
-  * 6. 数据库架构设计
-  * 7. 用户体验架构设计
+  * 6 数据库架构设计
+  * 7 用户体验架构设计
   * [8. 架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 
 **我做的项目中通常每个项目至少需要1份架构设计文档、1份数据库设计文档、0到多份模块设计文档和1份用户体验设计文档**
