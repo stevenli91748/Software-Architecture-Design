@@ -108,6 +108,10 @@
 [张传波 软件设计是怎样炼成的---实际操作的步骤](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84/README.md)|[凤凰架构---构建可靠的大型分布式系统 周志明](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)|
 ---|---|
 
+[高并发架构的整体思路](https://www.jianshu.com/p/f0ac1e7eee72)|
+---|
+
+
 [企业总体架构要如何做？小白也能快速领悟的设计思想](https://www.jianshu.com/p/12770c880775)|[架构师是怎样炼成的](https://www.jianshu.com/p/b94ac2e051b6)|
 ---|---|
 
