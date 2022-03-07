@@ -90,7 +90,7 @@
 * [SOA架构： 服务和微服务分析及设计---2017](https://weread.qq.com/web/reader/9ec32e50720bfc6d9eceb32)
 * [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
-
+* [分布式系统设计实践](https://weread.qq.com/web/reader/df832b00719db449df881a6)
 
 # 设计工具
 * [ProcessOn---专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制](https://www.processon.com/)
