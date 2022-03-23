@@ -208,6 +208,11 @@
           * 微服务架构 
       * [第三阶段：领域驱动设计，使用统一的模型来满足分析与设计的需求](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
         * [领域驱动设计（DDD）---打破了分析和设计割裂的状态，并给出了领域模型的概念，抛弃了将分析与设计分开的做法，使用统一的模型来满足分析与设计的需求，使系统开发能够更加灵活、快速地响应需求的变化,领域建模的过程把分析阶段和设计阶段变成了单个循环阶段，把分析与设计紧密联系起来，使领域建模专家不再只关注需求概念的收集，也关注程序代码的设计与实现](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k8e232ec02198e296a067180)
+* [架构设计分类](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k17e328b022b17e62166fad4)
+  * 业务架构
+  * 应用架构
+  * 数据架构
+  * 技术架构
 * [软件架构风格的演进](https://github.com/stevenli91748/System-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%BC%94%E8%BF%9B.md)
   * 大型机架构风格（Mainframe）
   * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
