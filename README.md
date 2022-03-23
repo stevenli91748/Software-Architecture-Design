@@ -195,7 +195,11 @@
 
 ---
 # 目录
+
 * [架构设计的目的](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.md)
+  * [软件架构设计思想路线](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k8e232ec02198e296a067180) 
+    * 面向对象分析与设计思想---面向对象分析与设计可以说是一种自底向顶的设计方式，面向对象分析与设计主要关注微观层次的抽象，比如类和对象实例等；对每个问题域通常都需要创建单独的用例分析模型，项目或产品的大方向在许多情况下变得很模糊，很难全局把控系统的总目标，所以这样的系统分析与设计方式存在很大的风险
+    * 面向服务分析与设计思想---在做面向服务分析与设计时会采用自顶向底的设计方法，首先要分离出业务流程和服务，然后细化对象，在面对复杂的市场需求时，面向对象分析与设计就显得捉襟见肘了，此时就需要从更高的层次分解市场需求，面向服务分析与设计应运而生。 
 * [软件架构风格的演进](https://github.com/stevenli91748/System-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%BC%94%E8%BF%9B.md)
   * 大型机架构风格（Mainframe）
   * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
