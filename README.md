@@ -226,7 +226,7 @@
 
 # 软件架构设计8步骤---从需求到架构验证
   * [1. 需求工程](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E5%88%92/%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B.md)
-  * [2. 邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E9%82%BB%E5%9F%9F%E5%BB%BA%E6%A8%A1/README.md)
+  * [2. 邻域建模](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
   * [3. 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
   * [4. 概念架构设计==分层架构设计和API设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
   * [5. 细化架构设计==模块设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
