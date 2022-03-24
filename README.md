@@ -212,7 +212,19 @@
   * 业务架构---业务架构是决定一个软件项目能否顺利开展的总纲，软件架构是业务架构在技术层面的映射，合理的开发分工也应该基于业务架构去做。如果没有业务架构，进行软件开发就会很盲目。业务架构是需求和开发的汇聚点，需求分析是否做到位，功能开发是否达到预期目标，都以此为依托
   * 应用架构
   * 数据架构
+    * 静态部分的内容---静态部分的内容的重点是数据元模型、数据模型，包括主数据、共享动态数据和所有业务相关的业务对象数据的分析和建模
+    * 动态部分的内容---动态部分的内容的重点则是对数据全生命周期的管控和治理 
   * 技术架构
+* 软件架构设计8步骤---从需求到架构验证
+  * [架构设计的流程](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2kf7132c6022cf7177163c01c)
+  * [1. 需求工程](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E5%88%92/%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B.md)
+  * [2. 邻域建模](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
+  * [3. 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
+  * [4. 概念架构设计==分层架构设计和API设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
+  * [5. 细化架构设计==模块设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
+  * 6 数据库架构设计
+  * 7 用户体验架构设计
+  * [8. 架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 * [软件架构风格的演进](https://github.com/stevenli91748/System-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%BC%94%E8%BF%9B.md)
   * 大型机架构风格（Mainframe）
   * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
@@ -231,16 +243,6 @@
 * [决定如何划分顶级子系统](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E5%86%B3%E5%AE%9A%E5%A6%82%E4%BD%95%E5%88%92%E5%88%86%E9%A1%B6%E7%BA%A7%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
 * [设计模式](https://github.com/stevenli91748/Design-Patterns)
 
-
-# 软件架构设计8步骤---从需求到架构验证
-  * [1. 需求工程](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E5%88%92/%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B.md)
-  * [2. 邻域建模](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
-  * [3. 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
-  * [4. 概念架构设计==分层架构设计和API设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
-  * [5. 细化架构设计==模块设计](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/细化架构设计)
-  * 6 数据库架构设计
-  * 7 用户体验架构设计
-  * [8. 架构验证](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/架构验证/README.md)
 
 **我做的项目中通常每个项目至少需要1份架构设计文档、1份数据库设计文档、0到多份模块设计文档和1份用户体验设计文档**
 
