@@ -94,6 +94,8 @@
 * [分布式系统设计实践](https://weread.qq.com/web/reader/df832b00719db449df881a6)
 * [智能风控平台： 架构 设计与实践](https://weread.qq.com/web/reader/265324307260a55926555abkc81322c012c81e728d9d180)
 * [产品设计思维：电商产品设计全功略](https://weread.qq.com/web/reader/3d532fe05de4da3d52176ea)
+* [实用软件架构： 从系统環境到软件部署](https://weread.qq.com/web/reader/b9232490718f6371b9291ffkc9f326d018c9f0f895fb5e4)
+
 # 设计工具
 * [ProcessOn---专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制](https://www.processon.com/)
 
