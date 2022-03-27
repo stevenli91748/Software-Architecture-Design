@@ -231,7 +231,7 @@
 * [软件架构风格的演进](https://github.com/stevenli91748/System-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%BC%94%E8%BF%9B.md)
   * 大型机架构风格（Mainframe）
   * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
-  * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)
+  * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)---单体”只是表明系统中主要的过程调用都是进程内调用，不会发生进程间通信，仅此而已
   * [Spring Cloud 实现微服务架构](https://icyfenix.cn/exploration/projects/microservice_arch_springcloud.html)
   * [Kubernetes 为基础设施的微服务架构](https://icyfenix.cn/exploration/projects/microservice_arch_kubernetes.html)
   * 后微服务架构风格：云原生时代（Cloud Native）
