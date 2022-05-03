@@ -110,7 +110,7 @@
 * [Service Mesh实战：用Istio软负载实现服务网格](https://weread.qq.com/web/reader/f57324607188b37df57c39e)
 * [深入浅出Istio: Service Mesh快速入门与实践](https://weread.qq.com/web/reader/e2c32bb071848778e2cf1c7)
 * [istio入门与实战](https://weread.qq.com/web/reader/af532c40718247c3af53d89)
-
+* [云原生服务网格Istio: 原理 实践 架构与源码解析](https://weread.qq.com/web/reader/ed4321c0811e3db9cg014f7c)
 
 ### 架构设计实践
 * [智能风控平台： 架构 设计与实践](https://weread.qq.com/web/reader/265324307260a55926555abkc81322c012c81e728d9d180)
