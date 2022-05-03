@@ -55,46 +55,69 @@
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 
 ## 软件架构设计
+* [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
 * [架构真意：企业级应用架构设计方法论与实践](https://weread.qq.com/web/reader/1c8329d072599d741c81d96)
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
-* [Serverless架构---2020](https://weread.qq.com/web/reader/c8a32e205e2f83c8a87fa85)
-* [Serverless工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
-* [Serverless架构： 从原理，设计到项目实战 ](https://weread.qq.com/web/reader/4383249071a74c67438c595)
-* [Serverless架构：无服务应用与AWS Lambda](https://weread.qq.com/web/reader/acb32da071dbdd99acb7f9b)
-* [Service Mesh实战：基于Linkerd和kubernetes的微服务实践](https://weread.qq.com/web/reader/743329b0716983fb7437b63)
-* [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
-* [Istio服务网络技术解析与实践](https://weread.qq.com/web/reader/20c3266071c94f5b20c1306kc81322c012c81e728d9d180)
-* [Spring微服务架构设计---2020](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8)
-* [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
-* [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
-* [微服务设计： 企业架构转型之道---2019 如何规划企业架构 ，包括业务架构 因用架构 数据架构 和技术架构， 企业架构的服务化过程 以及其完成后的企业服务架构的微服务过程 企业微服务架构的治理和管理](https://weread.qq.com/web/reader/61d32d70719c260961d4b33kc81322c012c81e728d9d180)
-* [Kubernetes微服务实战](https://weread.qq.com/web/reader/f1c32df071eeef5bf1cc214)
-* [Spring 微服务架构设计---2020 如何用SpringBoot 和 Spring Cloud 开发微服务系统，如何演进微服务，微服务的日志管理和监控，如何用Docker, Mesos 和 Marathon管理互联网级微服务架构](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8kc81322c012c81e728d9d180)
 * [软件架构设计：大型网站技术架构与业务架构融合之道](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
 * [一线架构师实践指南---温立](https://weread.qq.com/web/reader/db3328605a078edb31ea6ac)
 * [软件架构设计（第2版---温立）](https://weread.qq.com/web/reader/5f232ac05a60095f2080a26)
-* [软件方法： 业务建模和需求---重点讲业务建模 系统建模 业务用例 业务时序图 需求用例等知识---](https://weread.qq.com/web/reader/4be329b07198d7344beb216)
-* [架构解密： 从分布式到微服务（第2版）---2020 不论你是有十几年研发经验及架构经验的IT老手，还是刚入门系统架构的IT新手，本书都能对你理解分布式架构和微服务架构大有助益，对分布式、微服务、云原生、K8s、Service Mesh等发展脉络和原理进行深度解密 ](https://weread.qq.com/web/reader/26a3299071eeef0026a40f1kc81322c012c81e728d9d180)
 * [实用软件架构： 从系统环境到软件部署---IBM 工程师所写](https://weread.qq.com/web/reader/b9232490718f6371b9291ff)
 * [架构整洁之道---2018](https://weread.qq.com/web/reader/480322f072021a3248038c8)
 * [大型网站技术架构--李智慧](https://weread.qq.com/web/reader/cc1326e05bcc52cc1669fc0)
 * [系统架构设计---2017](https://weread.qq.com/web/reader/86832620717d308a868f221)
 * [企业互联网架构原理---2021](https://weread.qq.com/web/reader/95c324307264001095c6f30kc81322c012c81e728d9d180)
+* [软件方法： 业务建模和需求---重点讲业务建模 系统建模 业务用例 业务时序图 需求用例等知识---](https://weread.qq.com/web/reader/4be329b07198d7344beb216)
+* [架构解密： 从分布式到微服务（第2版）---2020 不论你是有十几年研发经验及架构经验的IT老手，还是刚入门系统架构的IT新手，本书都能对你理解分布式架构和微服务架构大有助益，对分布式、微服务、云原生、K8s、Service Mesh等发展脉络和原理进行深度解密 ](https://weread.qq.com/web/reader/26a3299071eeef0026a40f1kc81322c012c81e728d9d180)
 * [超大流量分布式系统架构解决方案： 人人都是架构师2.0---2020](https://weread.qq.com/web/reader/068328c071e072b10685247)
+* [架构真意：企业级应用架构设计方法论与实践---2021](https://weread.qq.com/web/reader/1c8329d072599d741c81d96kc81322c012c81e728d9d180)
+* [软件架构设计： 大型网站技术架构与业务架构融合之道---2018](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
+* [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
+* [分布式系统设计实践](https://weread.qq.com/web/reader/df832b00719db449df881a6)
+
+
+### 邻域驱动设计(DDD)
 * [复杂软件设计之道： 邻域驱动设计全面解析与实战---2020](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
 * [实现邻域驱动设计](https://weread.qq.com/web/reader/f5032ce071fd5a64f50b0f6)
 * [深入实践DDD: 以DSL驱动复杂软件开发---2021](https://weread.qq.com/web/reader/3f232740723b60233f23504)
-* [架构真意：企业级应用架构设计方法论与实践---2021](https://weread.qq.com/web/reader/1c8329d072599d741c81d96kc81322c012c81e728d9d180)
-* [软件架构设计： 大型网站技术架构与业务架构融合之道---2018](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
-* [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
+
+
+### 微服务架构设计
+* [Spring微服务架构设计---2020](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8)
+* [Spring 微服务架构设计---2020 如何用SpringBoot 和 Spring Cloud 开发微服务系统，如何演进微服务，微服务的日志管理和监控，如何用Docker, Mesos 和 Marathon管理互联网级微服务架构](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8kc81322c012c81e728d9d180)
+* [微服务设计： 企业架构转型之道---2019 如何规划企业架构 ，包括业务架构 因用架构 数据架构 和技术架构， 企业架构的服务化过程 以及其完成后的企业服务架构的微服务过程 企业微服务架构的治理和管理](https://weread.qq.com/web/reader/61d32d70719c260961d4b33kc81322c012c81e728d9d180)
+* [Kubernetes微服务实战](https://weread.qq.com/web/reader/f1c32df071eeef5bf1cc214)
 * [SOA架构： 服务和微服务分析及设计---2017](https://weread.qq.com/web/reader/9ec32e50720bfc6d9eceb32)
-* [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
-* [分布式系统设计实践](https://weread.qq.com/web/reader/df832b00719db449df881a6)
+
+
+
+## API设计
+* [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
+
+### Serverless
+* [Serverless架构---2020](https://weread.qq.com/web/reader/c8a32e205e2f83c8a87fa85)
+* [Serverless工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
+* [Serverless架构： 从原理，设计到项目实战 ](https://weread.qq.com/web/reader/4383249071a74c67438c595)
+* [Serverless架构：无服务应用与AWS Lambda](https://weread.qq.com/web/reader/acb32da071dbdd99acb7f9b)
+
+### istio
+* [Istio服务网络技术解析与实践](https://weread.qq.com/web/reader/20c3266071c94f5b20c1306kc81322c012c81e728d9d180)
+* [Service Mesh实战：基于Linkerd和kubernetes的微服务实践](https://weread.qq.com/web/reader/743329b0716983fb7437b63)
+* [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
+* [Istio服务网洛计术解析与实践](https://weread.qq.com/web/reader/20c3266071c94f5b20c1306)
+* [istio实战指南](https://weread.qq.com/web/reader/2c2325007193f2442c2e695)
+* [Service Mesh实战：用Istio软负载实现服务网格](https://weread.qq.com/web/reader/f57324607188b37df57c39e)
+* [深入浅出Istio: Service Mesh快速入门与实践](https://weread.qq.com/web/reader/e2c32bb071848778e2cf1c7)
+* [istio入门与实战](https://weread.qq.com/web/reader/af532c40718247c3af53d89)
+
+
+### 架构设计实践
 * [智能风控平台： 架构 设计与实践](https://weread.qq.com/web/reader/265324307260a55926555abkc81322c012c81e728d9d180)
 * [产品设计思维：电商产品设计全功略](https://weread.qq.com/web/reader/3d532fe05de4da3d52176ea)
-* [实用软件架构： 从系统環境到软件部署](https://weread.qq.com/web/reader/b9232490718f6371b9291ffkc9f326d018c9f0f895fb5e4)
+* [代码精进之路，从码农到工匠 2019](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9)
+
+---
 
 # 设计工具
 * [ProcessOn---专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制](https://www.processon.com/)
