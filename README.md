@@ -90,18 +90,21 @@
 * [SOA架构： 服务和微服务分析及设计---2017](https://weread.qq.com/web/reader/9ec32e50720bfc6d9eceb32)
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
 
-
+## 云原生
+## 不可变基础设施
+## 弹性计算
+## 高低零代码
 
 ## API设计
 * [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
 
-### Serverless
+### Serverless(无服务器架构)
 * [Serverless架构---2020](https://weread.qq.com/web/reader/c8a32e205e2f83c8a87fa85)
 * [Serverless工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
 * [Serverless架构： 从原理，设计到项目实战 ](https://weread.qq.com/web/reader/4383249071a74c67438c595)
 * [Serverless架构：无服务应用与AWS Lambda](https://weread.qq.com/web/reader/acb32da071dbdd99acb7f9b)
 
-### istio
+### istio (服务网格架构)
 * [Istio服务网络技术解析与实践](https://weread.qq.com/web/reader/20c3266071c94f5b20c1306kc81322c012c81e728d9d180)
 * [Service Mesh实战：基于Linkerd和kubernetes的微服务实践](https://weread.qq.com/web/reader/743329b0716983fb7437b63)
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
