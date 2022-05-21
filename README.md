@@ -228,6 +228,7 @@
 
 * [架构设计的目的](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.md)
   * [软件架构设计思想路线](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k8e232ec02198e296a067180) 
+    * 性能的需求,容错能力、技术异构、职责划分等各方面因素都成为架构需要考虑的问题
     * 系统分析与设计的三个发展阶段 
       * [第一阶段：面向数据驱动分析与设计](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2)
       * 第二阶段：面向对象和服务分析与设计，不管是在面向对象分析与设计中还是在面向服务分析与设计中，都带来了一个致命的缺点：分析阶段和设计阶段都是分开的、割裂的，不能很好地衔接
