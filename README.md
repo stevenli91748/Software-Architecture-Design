@@ -35,8 +35,8 @@
 <a href="https://ibb.co/NSXBMgD"><img src="https://i.ibb.co/74HmqxM/2.png" alt="2" border="0"></a>
 
 
-[火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
- ---|---|---|
+[火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|
+ ---|---|
 
 [解道](https://www.jdon.com/designpatterns/)|[凤凰架构---构建可靠的大型分布式系统 ”](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
 ---|---|---|---|
