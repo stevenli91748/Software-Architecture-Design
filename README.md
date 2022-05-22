@@ -263,7 +263,7 @@
   * [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
   * [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)---单体”只是表明系统中主要的过程调用都是进程内调用，不会发生进程间通信，仅此而已
   * [Spring Cloud 为基础设施实现微服务架构---初步解决了扩容缩容、独立部署、运维和管理等问题, 在Spring Cloud架构中选择在应用层面而不是基础设施层面去解决分布式问题，完全是因为由硬件构成的基础设施，跟不上由软件构成的应用服务的灵活性的无奈之举](https://icyfenix.cn/exploration/projects/microservice_arch_springcloud.html)
-  * [Kubernetes 为基础设施的微服务架构---当 Kubernetes 统一了容器编排管理系统之后，这些纯技术性的分布式问题，便开始有了被广泛认可和采纳的基础设施层面的解决方案](https://icyfenix.cn/exploration/projects/microservice_arch_kubernetes.html)
+  * [Kubernetes 为基础设施的微服务架构---Spring Cloud Kubernetes 的技术架构， 当 Kubernetes 统一了容器编排管理系统之后，这些纯技术性的分布式问题，便开始有了被广泛认可和采纳的基础设施层面的解决方案](https://icyfenix.cn/exploration/projects/microservice_arch_kubernetes.html)
   * 后微服务架构风格：云原生时代（Cloud Native）
     * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/exploration/projects/servicemesh_arch_istio.html)
   * 无服务架构（Serverless）
