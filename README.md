@@ -53,6 +53,8 @@
 ## 设计模式
 * [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
+* [研磨设计模式](https://weread.qq.com/web/bookDetail/40632cb0811e1bc07g013a09)
+
 
 ## 软件架构设计
 * [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
