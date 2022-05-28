@@ -39,4 +39,31 @@
     * [ 迪米特法则注意事项](https://www.youtube.com/watch?v=BckXGW0gQuI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=21)
   * 7 合成复用原则
     * [合成复用原则及小结](https://www.youtube.com/watch?v=LKf2W3TjxOM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=22) 
-
+* 23设计模式
+  * [一句话归纳23设计模式 ](http://c.biancheng.net/view/8462.html)
+  * 创建型设计模式（简单来说就是用来创建对象的）  
+    * 工厂模式（Factory Pattern）
+    * 单例模式（Singleton Pattern）
+    * 原型模式（Prototype Pattern）
+    * 建造者模式（Builder Pattern） 
+  * 结构型设计模式（关注类和对象的组合）
+    * 代理模式（Proxy Pattern）
+    * 外观模式（Facade Pattern）
+    * 装饰器模式（Decorator Pattern）
+    * 享元模式（Flyweight Pattern）
+    * 组合模式（Composite Pattern）
+    * 适配器模式（Adapter Pattern）
+    * 桥接模式（Bridge Pattern） 
+  * 行为型设计模式（关注对象之间的通信）
+    * 模板模式（Template Pattern）
+    * 策略模式（Strategy Pattern）
+    * 责任链模式（Chain of Responsibility Pattern）
+    * 迭代器模式（Iterator Pattern）
+    * 命令模式（Command Pattern）
+    * 状态模式（State Pattern）
+    * 备忘录模式（Memento Pattern）
+    * 中介者模式（Mediator Pattern）
+    * 解释器模式（Interpreter Pattern）
+    * 观察者模式（Observer Pattern）
+    * 访问者模式（Visitor Pattern）
+    * 委派模式（Delegate Pattern） 
