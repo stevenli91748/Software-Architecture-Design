@@ -12,7 +12,7 @@
 
 # 目录
 * [在软件设计中何时会用到设计模式](https://www.youtube.com/watch?v=ZjXCu545kvw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=3)
-* 设计模式7大原则
+* 设计模式7大原则---23个设计模式都要都要遵从7大原则中的一种或几种原则，它是23种设计模式为什么要如此设计的原理
   * 1 单一职责原则 
     * [单一职责原则](https://www.youtube.com/watch?v=lbdk1nH_ljQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=6) 
     * [单一职责原则小结](https://www.youtube.com/watch?v=eXT7s8C3oO0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=7)
