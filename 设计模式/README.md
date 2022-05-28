@@ -47,8 +47,8 @@
     * 简单工厂模式
     * 抽象工厂（AbstractFactory）模式－－－提供一个创建产品族的接口，其每个子类可以生产一系列相关的产品
     * 单例模式（Singleton Pattern）－－－某个类只能生成一个实例，该类提供了一个全局访问点供外部获取该实例，其拓展是有限多例模式
-    　* [单例模式（单例设计模式）详解 ](http://c.biancheng.net/view/1338.html)
-    　* [单例静态常量饿汉式](https://www.youtube.com/watch?v=zS9itCRC65U&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=29)
+      * [单例模式（单例设计模式）详解 ](http://c.biancheng.net/view/1338.html)
+      * [单例静态常量饿汉式](https://www.youtube.com/watch?v=zS9itCRC65U&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=29)
     　[单例静态代码块饿汉式](https://www.youtube.com/watch?v=K6q3Q1JcoCQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=30)
     　[单例线程不安全懒汉式](https://www.youtube.com/watch?v=msgkgVuPHcY&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=31)
     　[单例线程安全懒汉式](https://www.youtube.com/watch?v=x44r711BCf8&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=32)
