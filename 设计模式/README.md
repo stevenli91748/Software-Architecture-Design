@@ -44,8 +44,20 @@
   * [一句话归纳23设计模式 ](http://c.biancheng.net/view/8462.html)
   * 创建型设计模式（简单来说就是用来创建对象的）---创建型模式的主要关注点是“怎样创建对象？”，它的主要特点是“将对象的创建与使用分离”。这样可以降低系统的耦合度，使用者不需要关注对象的创建细节，对象的创建由相关的工厂来完成,除了工厂方法模式属于类创建型模式，其他的全部属于对象创建型模式  
     * 工厂模式（Factory Pattern）－－－定义一个用于创建产品的接口，由子类决定生产什么产品
+    * 简单工厂模式
     * 抽象工厂（AbstractFactory）模式－－－提供一个创建产品族的接口，其每个子类可以生产一系列相关的产品
     * 单例模式（Singleton Pattern）－－－某个类只能生成一个实例，该类提供了一个全局访问点供外部获取该实例，其拓展是有限多例模式
+    　* [单例模式（单例设计模式）详解 ](http://c.biancheng.net/view/1338.html)
+    　* [单例静态常量饿汉式](https://www.youtube.com/watch?v=zS9itCRC65U&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=29)
+    　* [单例静态代码块饿汉式](https://www.youtube.com/watch?v=K6q3Q1JcoCQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=30)
+    　* [单例线程不安全懒汉式](https://www.youtube.com/watch?v=msgkgVuPHcY&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=31)
+    　* [单例线程安全懒汉式](https://www.youtube.com/watch?v=x44r711BCf8&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=32)
+    　* [单例同步代码块懒汉式](https://www.youtube.com/watch?v=u0bSH4VvGzU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=33)
+    　* [单例DoubleCheck](https://www.youtube.com/watch?v=TpdPsCGsFVk&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=34)
+    　* [单例静态内部类](https://www.youtube.com/watch?v=fl129AGIrX0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=35)
+    　* [单例枚举方式](https://www.youtube.com/watch?v=VsgFcL3T-fU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=36)
+    　* [单例模式JKD源码分析](https://www.youtube.com/watch?v=bP2t_LNxqWM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=37)
+    　* [单例模式注意事项](https://www.youtube.com/watch?v=UZF9iWhTI5s&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=38)
     * 原型模式（Prototype Pattern）－－－将一个对象作为原型，通过对其进行复制而克隆出多个和原型类似的新实例
     * 建造者模式（Builder Pattern）－－－将一个复杂对象分解成多个相对简单的部分，然后根据不同需要分别创建它们，最后构建成该复杂对象 
   * 结构型设计模式（关注类和对象的组合）－－－结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者釆用组合或聚合来组合对象，由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象结构型模式比类结构型模式具有更大的灵活性，除了适配器模式分为类结构型模式和对象结构型模式两种，其他的全部属于对象结构型模式
