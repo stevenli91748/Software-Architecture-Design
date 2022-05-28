@@ -11,6 +11,7 @@
 
 
 # 目录
+* [在软件设计中何时会用到设计模式](https://www.youtube.com/watch?v=ZjXCu545kvw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=3)
 * 设计模式7大原则
   * 1 单一职责原则 
     * [单一职责原则](https://www.youtube.com/watch?v=lbdk1nH_ljQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=6) 
@@ -24,3 +25,10 @@
     * [依赖倒转原则1](https://www.youtube.com/watch?v=wg4eBEXs37A&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=11)
     * [依赖倒转原则2](https://www.youtube.com/watch?v=80zeTuID-nE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=12)
     * [依赖倒转原则小结](https://www.youtube.com/watch?v=RnVU38KE6ok&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=13)
+  * 4 里氏替换原则
+    * [里氏替换原则1](https://www.youtube.com/watch?v=M2HD9yBGLtI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=14)  
+    * [里氏替换原则2](https://www.youtube.com/watch?v=w7pSms1rmAM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=15)
+  * 5 开闭原则
+    * [开闭原则1](https://www.youtube.com/watch?v=zJkv7EiC47I&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=16) 
+    * [开闭原则2](https://www.youtube.com/watch?v=p64Q9TtTV8E&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=17) 
+    * [开闭原则小结](https://www.youtube.com/watch?v=7viAiqK1QqM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=18) 
