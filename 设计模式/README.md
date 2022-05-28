@@ -32,3 +32,10 @@
     * [开闭原则1](https://www.youtube.com/watch?v=zJkv7EiC47I&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=16) 
     * [开闭原则2](https://www.youtube.com/watch?v=p64Q9TtTV8E&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=17) 
     * [开闭原则小结](https://www.youtube.com/watch?v=7viAiqK1QqM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=18) 
+  * 6 迪米特法则
+    * [迪米特法则1](https://www.youtube.com/watch?v=4M8aVO_X9M4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=19) 
+    * [迪米特法则2](https://www.youtube.com/watch?v=1BMaPNyb53k&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=20)
+    * [ 迪米特法则注意事项](https://www.youtube.com/watch?v=BckXGW0gQuI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=21)
+  * 7 合成复用原则
+    * [合成复用原则及小结](https://www.youtube.com/watch?v=LKf2W3TjxOM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=22) 
+
