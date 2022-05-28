@@ -11,6 +11,7 @@
 
 
 # 目录
+*　ＵＭＬ
 * [在软件设计中何时会用到设计模式](https://www.youtube.com/watch?v=ZjXCu545kvw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=3)
 * 设计模式7大原则---23个设计模式都要都要遵从7大原则中的一种或几种原则，它是23种设计模式为什么要如此设计的原理，是设计模式的基础
   * [0 一句话总结软件设计七大原则](http://c.biancheng.net/view/8508.html)
@@ -41,8 +42,9 @@
     * [合成复用原则及小结](https://www.youtube.com/watch?v=LKf2W3TjxOM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=22) 
 * 23设计模式
   * [一句话归纳23设计模式 ](http://c.biancheng.net/view/8462.html)
-  * 创建型设计模式（简单来说就是用来创建对象的）  
+  * 创建型设计模式（简单来说就是用来创建对象的）---创建型模式的主要关注点是“怎样创建对象？”，它的主要特点是“将对象的创建与使用分离”。这样可以降低系统的耦合度，使用者不需要关注对象的创建细节，对象的创建由相关的工厂来完成,除了工厂方法模式属于类创建型模式，其他的全部属于对象创建型模式  
     * 工厂模式（Factory Pattern）
+    * 抽象工厂（AbstractFactory）模式
     * 单例模式（Singleton Pattern）
     * 原型模式（Prototype Pattern）
     * 建造者模式（Builder Pattern） 
@@ -54,7 +56,7 @@
     * 组合模式（Composite Pattern）
     * 适配器模式（Adapter Pattern）
     * 桥接模式（Bridge Pattern） 
-  * 行为型设计模式（关注对象之间的通信）
+  * 行为型设计模式（关注对象之间的通信）---行为型模式分为类行为模式和对象行为模式，前者采用继承机制来在类间分派行为，后者采用组合或聚合在对象间分配行为。由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象行为模式比类行为模式具有更大的灵活性
     * 模板模式（Template Pattern）
     * 策略模式（Strategy Pattern）
     * 责任链模式（Chain of Responsibility Pattern）
