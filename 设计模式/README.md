@@ -94,6 +94,12 @@
     * 享元模式（Flyweight Pattern）－－－运用共享技术来有效地支持大量细粒度对象的复用
     * 组合模式（Composite Pattern）－－－将对象组合成树状层次结构，使用户对单个对象和组合对象具有一致的访问性
     * 适配器模式（Adapter Pattern）－－－将一个类的接口转换成客户希望的另外一个接口，使得原本由于接口不兼容而不能一起工作的那些类能一起工作
+      * [适配器模式 工作原理](https://www.youtube.com/watch?v=PizwFKStOLA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=60)
+      * [类适配器 电压问题](https://www.youtube.com/watch?v=xakIsT-AP5c&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=61)
+      * [对象适配器 电压问题](https://www.youtube.com/watch?v=W_7UnvcGSVw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=62)
+      * [接口适配器 电压问题](https://www.youtube.com/watch?v=1xWjqXj2gl0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=63)
+      * [适配器模式 Dispatcher源码](https://www.youtube.com/watch?v=MLCqHINNUos&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=64)
+      * [适配器模式 内容梳理](https://www.youtube.com/watch?v=YzIjzWop-K4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=65) 
     * 桥接模式（Bridge Pattern）－－－将抽象与实现分离，使它们可以独立变化。它是用组合关系代替继承关系来实现的，从而降低了抽象和实现这两个可变维度的耦合度 
   * 行为型设计模式（关注对象之间的通信）---行为型模式用于描述程序在运行时复杂的流程控制，即描述多个类或对象之间怎样相互协作共同完成单个对象都无法单独完成的任务，它涉及算法与对象间职责的分配，行为型模式分为类行为模式和对象行为模式，前者采用继承机制来在类间分派行为，后者采用组合或聚合在对象间分配行为。由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象行为模式比类行为模式具有更大的灵活性
     * 模板模式（Template Pattern）－－－定义一个操作中的算法骨架，将算法的一些步骤延迟到子类中，使得子类在可以不改变该算法结构的情况下重定义该算法的某些特定步骤
