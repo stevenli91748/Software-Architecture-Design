@@ -44,6 +44,7 @@
   * [一句话归纳23设计模式 ](http://c.biancheng.net/view/8462.html)
   * 创建型设计模式（简单来说就是用来创建对象的）---创建型模式的主要关注点是“怎样创建对象？”，它的主要特点是“将对象的创建与使用分离”。这样可以降低系统的耦合度，使用者不需要关注对象的创建细节，对象的创建由相关的工厂来完成,除了工厂方法模式属于类创建型模式，其他的全部属于对象创建型模式  
     * 工厂模式（Factory Pattern）－－－定义一个用于创建产品的接口，由子类决定生产什么产品
+      * [工厂模式 JDK源码分析](https://www.youtube.com/watch?v=tDqAUuNC4is&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=47)
       * 工厂方法模式
         * [工厂方法模式理论（详解版） ](http://c.biancheng.net/view/1348.html)
         * [工厂方法模式1](https://www.youtube.com/watch?v=_OHkaVpckM0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=43)
@@ -58,6 +59,7 @@
         * [抽象工厂模式理论（详解版）](http://c.biancheng.net/view/1351.html) 
         * [抽象工厂模式1](https://www.youtube.com/watch?v=fntcuOYtCZY&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=45)
         * [抽象工厂模式2](https://www.youtube.com/watch?v=e33jyHEvcdw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=46)
+      * [工厂模式 小结](https://www.youtube.com/watch?v=u8B6bqypjg4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=48)
     * 单例模式（Singleton Pattern）－－－某个类只能生成一个实例，该类提供了一个全局访问点供外部获取该实例，其拓展是有限多例模式
       * [单例模式（单例设计模式）详解 ](http://c.biancheng.net/view/1338.html)
       * [单例静态常量饿汉式](https://www.youtube.com/watch?v=zS9itCRC65U&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=29)
