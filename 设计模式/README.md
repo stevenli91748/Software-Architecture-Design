@@ -149,6 +149,13 @@
     * 策略模式（Strategy Pattern）－－－定义了一系列算法，并将每个算法封装起来，使它们可以相互替换，且算法的改变不会影响使用算法的客户
     * 责任链模式（Chain of Responsibility Pattern）－－－把请求从链中的一个对象传到下一个对象，直到请求被响应为止。通过这种方式去除对象之间的耦合
     * 迭代器模式（Iterator Pattern）－－－提供一种方法来顺序访问聚合对象中的一系列数据，而不暴露聚合对象的内部表示
+      * [迭代器模式（详解版）理论详解](http://c.biancheng.net/view/1395.html)
+      * [迭代器模式1 统一遍历问题](https://www.youtube.com/watch?v=VgYfTnsS-OQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=111)
+      * [迭代器模式2 原理类图](https://www.youtube.com/watch?v=iOq0bJR-zrc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=112)
+      * [迭代器模式3 统一遍历问题](https://www.youtube.com/watch?v=4mK13v7z0_0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=113)
+      * [迭代器模式4 统一遍历问题](https://www.youtube.com/watch?v=HLfqk1CEeUU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=114)
+      * [迭代器模式5 JDK源码](https://www.youtube.com/watch?v=HX-FWOeuHKc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=115) 
+      * [迭代器模式6 使用细节](https://www.youtube.com/watch?v=XKzJcr6pht0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=116)
     * 命令模式（Command Pattern）－－－将一个请求封装为一个对象，使发出请求的责任和执行请求的责任分割开
       * [命令模式（详解版）理论详解](http://c.biancheng.net/view/1380.html)
       * [命令模式1 工作原理](https://www.youtube.com/watch?v=SAgioih5IDo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=101)
@@ -159,15 +166,27 @@
     * 状态模式（State Pattern）－－－允许一个对象在其内部状态发生改变时改变其行为能力
     * 备忘录模式（Memento Pattern）－－－在不破坏封装性的前提下，获取并保存一个对象的内部状态，以便以后恢复它
     * 中介者模式（Mediator Pattern）－－－定义一个中介对象来简化原有对象之间的交互关系，降低系统中对象间的耦合度，使原有对象之间不必相互了解
+      * [中介者模式（详解版）理论详解](http://c.biancheng.net/view/1393.html)
+      * [中介者模式1 智能家庭](https://www.youtube.com/watch?v=XfjVH2qJPyQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=123)
+      * [中介者模式2 工作原理](https://www.youtube.com/watch?v=FKHNo_tATmo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=125)
+      * [中介者模式3 智能家庭](https://www.youtube.com/watch?v=domuhszn0Go&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=125) 
+      * [中介者模式4 内容梳理](https://www.youtube.com/watch?v=JYpl8FO_MHw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=126)
     * 解释器模式（Interpreter Pattern）－－－提供如何定义语言的文法，以及对语言句子的解释方法，即解释器
     * 观察者模式（Observer Pattern）－－－多个对象间存在一对多关系，当一个对象发生改变时，把这种改变通知给其他多个对象，从而影响其他对象的行为
+      * [观察者模式（Observer模式）理论详解](http://c.biancheng.net/view/1390.html)
+      * [观察者模式1 天气预报](https://www.youtube.com/watch?v=7IP73TFtROo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=117)
+      * [观察者模式2 天气预报](https://www.youtube.com/watch?v=hAyxnTKvceE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=118)
+      * [观察者模式3 工作原理](https://www.youtube.com/watch?v=S8p84vB2YxE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=119)
+      * [观察者模式4 天气预报](https://www.youtube.com/watch?v=Oa2INzeG0d0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=120)
+      * [观察者模式5 Observable源码](https://www.youtube.com/watch?v=VrvymdWpg68&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=121) 
+      * [观察者模式6 内容梳理](https://www.youtube.com/watch?v=Asr-ByJgfYw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=122)
     * 访问者模式（Visitor Pattern）－－－在不改变集合元素的前提下，为一个集合中的每个元素提供多种访问方式，即每个元素有多个访问者对象访问
       * [访问者模式（Visitor模式）理论详解](http://c.biancheng.net/view/1397.html)
       * [访问者模式1 歌手评分](https://www.youtube.com/watch?v=KPDXZceyINs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=106)
       * [访问者模式2 原理类图](https://www.youtube.com/watch?v=aN93p-lXZes&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=107)
       * [访问者模式3 歌手评分](https://www.youtube.com/watch?v=_eSFJkOHqUw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=108) 
-      * []()
-      * []()
+      * [访问者模式4 双分派](https://www.youtube.com/watch?v=FuXisyl9fdg&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=109)
+      * [访问者模式5 使用细节](https://www.youtube.com/watch?v=mqC6Li3WuwI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=110)
     * 委派模式（Delegate Pattern）－－－ 
 
 
