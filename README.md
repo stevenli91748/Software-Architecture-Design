@@ -290,7 +290,7 @@
 ---
 
 # 软件架构视频
-  
+  * [Software Architecture and Design](https://www.youtube.com/c/ADevStory)
   * [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
   * [软件设计是怎样炼成的](https://edu.51cto.com/course/5568.html)
 # 参考的资料
