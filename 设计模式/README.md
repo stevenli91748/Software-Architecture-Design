@@ -73,7 +73,20 @@
       * [单例模式JKD源码分析](https://www.youtube.com/watch?v=bP2t_LNxqWM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=37)
       * [单例模式注意事项](https://www.youtube.com/watch?v=UZF9iWhTI5s&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=38)
     * 原型模式（Prototype Pattern）－－－将一个对象作为原型，通过对其进行复制而克隆出多个和原型类似的新实例
+      * [原型模式（原型设计模式）理论详解](http://c.biancheng.net/view/1343.html) 
+      * [原型模式1  克隆羊](https://www.youtube.com/watch?v=kXXxoryee2o&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=49)
+      * [原型模式2  克隆羊](https://www.youtube.com/watch?v=6r8fUvPfSvs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=50)
+      * [原型模式3 Spring源码分析](https://www.youtube.com/watch?v=rqON85wsA5U&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=51)
+      * [原型模式4 深拷贝](https://www.youtube.com/watch?v=iJmOIzo4kL0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=52)
+      * [原型模式5 深拷贝](https://www.youtube.com/watch?v=PU74J-hk7xg&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=53)
+      * [原型模式6 内容梳理](https://www.youtube.com/watch?v=_Ab8IxtFrGc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=54)
     * 建造者模式（Builder Pattern）－－－将一个复杂对象分解成多个相对简单的部分，然后根据不同需要分别创建它们，最后构建成该复杂对象 
+      * [建造者模式（Bulider模式）理论详解](http://c.biancheng.net/view/1354.html) 
+      * [建造者模式1 盖房子](https://www.youtube.com/watch?v=ZapAt3-AIrE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=55)
+      * [建造者模式2 原理类图](https://www.youtube.com/watch?v=gKFvdmTjfXg&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=56)
+      * [建造者模式3 盖房子](https://www.youtube.com/watch?v=M4hHWPUTR1c&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=57)
+      * [建造者模式4 StringBuilder源码](https://www.youtube.com/watch?v=fkflkrIEzqA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=58)
+      * [建造者模式5 内容梳理](https://www.youtube.com/watch?v=BcwVLx6XLBA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=59)
   * 结构型设计模式（关注类和对象的组合）－－－结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者釆用组合或聚合来组合对象，由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象结构型模式比类结构型模式具有更大的灵活性，除了适配器模式分为类结构型模式和对象结构型模式两种，其他的全部属于对象结构型模式
     * 代理模式（Proxy Pattern）－－－为某对象提供一种代理以控制对该对象的访问。即客户端通过代理间接地访问该对象，从而限制、增强或修改该对象的一些特性
     * 外观模式（Facade Pattern）－－－为多个复杂的子系统提供一个一致的接口，使这些子系统更加容易被访问
