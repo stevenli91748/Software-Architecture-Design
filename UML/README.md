@@ -3,6 +3,15 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/jTVpKrL/5-200-Z10944153-K.png" alt="5-200-Z10944153-K" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free image hosting</a><br />
 
 
+[UMLchina---潘加宇](http://www.umlchina.com/index.html)|[软件需求设计方法学全程实例剖析幻灯片---潘加宇](http://www.umlchina.com/training/slide.html)|[《软件方法》书中自测题-题目全文+分卷自测（1-8章）16套111题---潘加宇](https://mp.weixin.qq.com/s/Xj9YoZzuR-4loMXwBubEag)|
+---|---|---|
+
+[[2020.01加一套题]UMLChina建模竞赛题大全-题目全文+分卷自测（11套110题）---潘加宇](https://mp.weixin.qq.com/s/GDfIMgdZ8VWWmrNF-axmsw)|[UMLChina建模竞赛题答案及解析------潘加宇](http://www.umlchina.com/training/quizanswer.html)|
+---|---|
+
+
+
+
 # 目录
 
 * [UML图类型](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k1ff325f02181ff1de7742fc)
