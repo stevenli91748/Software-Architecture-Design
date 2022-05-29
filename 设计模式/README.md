@@ -132,7 +132,7 @@
       * [适配器模式 Dispatcher源码](https://www.youtube.com/watch?v=MLCqHINNUos&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=64)
       * [适配器模式 内容梳理](https://www.youtube.com/watch?v=YzIjzWop-K4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=65) 
     * 桥接模式（Bridge Pattern）－－－将抽象与实现分离，使它们可以独立变化。它是用组合关系代替继承关系来实现的，从而降低了抽象和实现这两个可变维度的耦合度 
-      * [桥接模式（Bridge模式）详解](http://c.biancheng.net/view/1364.html)
+      * [桥接模式（Bridge模式）理论详解](http://c.biancheng.net/view/1364.html)
       * [桥接模式1 手机问题](https://www.youtube.com/watch?v=ZR5PNFywiSo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=66)
       * [桥接模式2 原理类图](https://www.youtube.com/watch?v=4LBH_la1PIs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=67)
       * [桥接模式3 手机问题](https://www.youtube.com/watch?v=eFpj0p3h6pA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=68)
@@ -140,10 +140,22 @@
       * [桥接模式5 内容梳理](https://www.youtube.com/watch?v=-luaJIbZ_C0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=70) 
   * 行为型设计模式（关注对象之间的通信）---行为型模式用于描述程序在运行时复杂的流程控制，即描述多个类或对象之间怎样相互协作共同完成单个对象都无法单独完成的任务，它涉及算法与对象间职责的分配，行为型模式分为类行为模式和对象行为模式，前者采用继承机制来在类间分派行为，后者采用组合或聚合在对象间分配行为。由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象行为模式比类行为模式具有更大的灵活性
     * 模板模式（Template Pattern）－－－定义一个操作中的算法骨架，将算法的一些步骤延迟到子类中，使得子类在可以不改变该算法结构的情况下重定义该算法的某些特定步骤
+      * [模板方法模式（模板方法设计模式）理论详解](http://c.biancheng.net/view/1376.html) 
+      * [模板模式1 工作原理](https://www.youtube.com/watch?v=nv2O2x1rq6w&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=96)
+      * [模板模式2 豆浆制作](https://www.youtube.com/watch?v=uBa08_X1IPQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=97)
+      * [模板模式3 钩子方法](https://www.youtube.com/watch?v=Cb3epXDMe1E&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=98)
+      * [模板模式4 IOC源码](https://www.youtube.com/watch?v=D8OCnfMaD24&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=99)
+      * [模板模式5 细节说明](https://www.youtube.com/watch?v=LLSiXZYppUs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=100)
     * 策略模式（Strategy Pattern）－－－定义了一系列算法，并将每个算法封装起来，使它们可以相互替换，且算法的改变不会影响使用算法的客户
     * 责任链模式（Chain of Responsibility Pattern）－－－把请求从链中的一个对象传到下一个对象，直到请求被响应为止。通过这种方式去除对象之间的耦合
     * 迭代器模式（Iterator Pattern）－－－提供一种方法来顺序访问聚合对象中的一系列数据，而不暴露聚合对象的内部表示
     * 命令模式（Command Pattern）－－－将一个请求封装为一个对象，使发出请求的责任和执行请求的责任分割开
+      * [命令模式（详解版）理论详解](http://c.biancheng.net/view/1380.html)
+      * [命令模式1 工作原理](https://www.youtube.com/watch?v=SAgioih5IDo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=101)
+      * [命令模式2 遥控器](https://www.youtube.com/watch?v=G4iGq7f2lFw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=102)
+      * [命令模式3 遥控器](https://www.youtube.com/watch?v=hYMGpq8lhZA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=103)
+      * [命令模式4 JdbcTml源码](https://www.youtube.com/watch?v=i6kap-mq28E&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=104)
+      * [命令模式5 内容梳理](https://www.youtube.com/watch?v=B2yqvhs61Ag&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=105) 
     * 状态模式（State Pattern）－－－允许一个对象在其内部状态发生改变时改变其行为能力
     * 备忘录模式（Memento Pattern）－－－在不破坏封装性的前提下，获取并保存一个对象的内部状态，以便以后恢复它
     * 中介者模式（Mediator Pattern）－－－定义一个中介对象来简化原有对象之间的交互关系，降低系统中对象间的耦合度，使原有对象之间不必相互了解
