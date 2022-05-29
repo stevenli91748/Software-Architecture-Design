@@ -227,7 +227,8 @@
 
 ---
 # 目录
-
+* [UML](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/UML)
+* [软件设计模式](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/README.md)
 * [架构设计的目的](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.md)
   * [软件架构设计思想路线](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k8e232ec02198e296a067180) 
     * 性能的需求,容错能力、技术异构、职责划分等各方面因素都成为架构需要考虑的问题
