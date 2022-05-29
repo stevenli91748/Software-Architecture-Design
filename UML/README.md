@@ -52,3 +52,4 @@
 
 # 参考
 * [UML](http://www.umlonline.org)
+* [UML统一建模语言是什么](http://c.biancheng.net/view/8373.html)
