@@ -147,7 +147,19 @@
       * [模板模式4 IOC源码](https://www.youtube.com/watch?v=D8OCnfMaD24&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=99)
       * [模板模式5 细节说明](https://www.youtube.com/watch?v=LLSiXZYppUs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=100)
     * 策略模式（Strategy Pattern）－－－定义了一系列算法，并将每个算法封装起来，使它们可以相互替换，且算法的改变不会影响使用算法的客户
+      * [策略模式（策略设计模式）详解理论详解](http://c.biancheng.net/view/1378.html)
+      * [策略模式1 鸭子问题](https://www.youtube.com/watch?v=4qjSdCsd2m4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=140)
+      * [策略模式2 工作原理](https://www.youtube.com/watch?v=vx6DnincOp8&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=141)
+      * [策略模式3 鸭子问题](https://www.youtube.com/watch?v=kZJQUfGzpsU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=142) 
+      * [策略模式4 Arrays源码](https://www.youtube.com/watch?v=xOppee_iSvo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=143)
+      * [策略模式5 内容梳理](https://www.youtube.com/watch?v=hl178Z-PVyk&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=144)
     * 责任链模式（Chain of Responsibility Pattern）－－－把请求从链中的一个对象传到下一个对象，直到请求被响应为止。通过这种方式去除对象之间的耦合
+      * [责任链模式（职责链模式）理论详解](http://c.biancheng.net/view/1383.html)
+      * [职责链模式1 采购审批](https://www.youtube.com/watch?v=bLvPas7Rv84&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=145)
+      * [职责链模式2 工作原理](https://www.youtube.com/watch?v=c_cXXMDGeIc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=146)
+      * [职责链模式3 采购审批](https://www.youtube.com/watch?v=8p55frWJdhI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=147)
+      * [职责链模式4 SpringMVC源码](https://www.youtube.com/watch?v=x3vBJe0tjdw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=148)
+      * [职责链模式5 内容梳理](https://www.youtube.com/watch?v=1gwM-T7C4Y0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=149) 
     * 迭代器模式（Iterator Pattern）－－－提供一种方法来顺序访问聚合对象中的一系列数据，而不暴露聚合对象的内部表示
       * [迭代器模式（详解版）理论详解](http://c.biancheng.net/view/1395.html)
       * [迭代器模式1 统一遍历问题](https://www.youtube.com/watch?v=VgYfTnsS-OQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=111)
@@ -164,7 +176,17 @@
       * [命令模式4 JdbcTml源码](https://www.youtube.com/watch?v=i6kap-mq28E&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=104)
       * [命令模式5 内容梳理](https://www.youtube.com/watch?v=B2yqvhs61Ag&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=105) 
     * 状态模式（State Pattern）－－－允许一个对象在其内部状态发生改变时改变其行为能力
+      * [状态模式（详解版）理论详解](http://c.biancheng.net/view/1388.html)
+      * [状态模式1 工作原理图](https://www.youtube.com/watch?v=MiSOHFYHXwE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=136)
+      * [状态模式2 抽奖活动](https://www.youtube.com/watch?v=S5QsoQE6zZc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=137)
+      * [状态模式3 借贷平台源码](https://www.youtube.com/watch?v=n1q9UUEzXjc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=138) 
+      * [状态模式4 注意事项](https://www.youtube.com/watch?v=mFcQbFfypfs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=139) 
     * 备忘录模式（Memento Pattern）－－－在不破坏封装性的前提下，获取并保存一个对象的内部状态，以便以后恢复它
+      * [备忘录模式（详解版）理论详解](http://c.biancheng.net/view/1400.html)
+      * [备忘录模式1 游戏角色](https://www.youtube.com/watch?v=T7hztVIXBcQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=127)
+      * [备忘录模式2 工作原理](https://www.youtube.com/watch?v=6DUJlXz2UHs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=128)
+      * [备忘录模式3 游戏角色](https://www.youtube.com/watch?v=U3mIVGbFiiQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=129) 
+      * [备忘录模式4 注意事项](https://www.youtube.com/watch?v=j_6TaTiglAk&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=130)
     * 中介者模式（Mediator Pattern）－－－定义一个中介对象来简化原有对象之间的交互关系，降低系统中对象间的耦合度，使原有对象之间不必相互了解
       * [中介者模式（详解版）理论详解](http://c.biancheng.net/view/1393.html)
       * [中介者模式1 智能家庭](https://www.youtube.com/watch?v=XfjVH2qJPyQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=123)
@@ -172,6 +194,12 @@
       * [中介者模式3 智能家庭](https://www.youtube.com/watch?v=domuhszn0Go&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=125) 
       * [中介者模式4 内容梳理](https://www.youtube.com/watch?v=JYpl8FO_MHw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=126)
     * 解释器模式（Interpreter Pattern）－－－提供如何定义语言的文法，以及对语言句子的解释方法，即解释器
+      * [解释器模式（详解版）理论详解](http://c.biancheng.net/view/1402.html)
+      * [解释器模式1 计算式求值](https://www.youtube.com/watch?v=ZMBWcnesB9s&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=131)
+      * [解释器模式2 原理类图](https://www.youtube.com/watch?v=DpdvVKKhA34&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=132)
+      * [解释器模式3 计算式求值](https://www.youtube.com/watch?v=0Y9exs6iFeE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=133) 
+      * [解释器模式4 SpelExp源码](https://www.youtube.com/watch?v=OlLwGBjb4PI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=134)
+      * [解释器模式5 总结](https://www.youtube.com/watch?v=4On-vBIDaW0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=135)
     * 观察者模式（Observer Pattern）－－－多个对象间存在一对多关系，当一个对象发生改变时，把这种改变通知给其他多个对象，从而影响其他对象的行为
       * [观察者模式（Observer模式）理论详解](http://c.biancheng.net/view/1390.html)
       * [观察者模式1 天气预报](https://www.youtube.com/watch?v=7IP73TFtROo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=117)
