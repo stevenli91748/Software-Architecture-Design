@@ -90,10 +90,35 @@
   * 结构型设计模式（关注类和对象的组合）－－－结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者釆用组合或聚合来组合对象，由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象结构型模式比类结构型模式具有更大的灵活性，除了适配器模式分为类结构型模式和对象结构型模式两种，其他的全部属于对象结构型模式
     * 代理模式（Proxy Pattern）－－－为某对象提供一种代理以控制对该对象的访问。即客户端通过代理间接地访问该对象，从而限制、增强或修改该对象的一些特性
     * 外观模式（Facade Pattern）－－－为多个复杂的子系统提供一个一致的接口，使这些子系统更加容易被访问
+      * [外观模式（Facade模式）详解](http://c.biancheng.net/view/1369.html) 
+      * [外观模式1 影院管理](https://www.youtube.com/watch?v=_yOhbjV2Sp8&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=81)
+      * [外观模式2 影院管理](https://www.youtube.com/watch?v=IvrkadcZP_Q&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=82)
+      * [外观模式3 影院管理](https://www.youtube.com/watch?v=CX3kXS5ddGU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=83)
+      * [外观模式4 MyBatis源码](https://www.youtube.com/watch?v=1y0RqNcbINI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=84)
+      * [外观模式5 注意事项](https://www.youtube.com/watch?v=dOUB-RcDH-o&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=85)
     * 装饰器模式（Decorator Pattern）－－－动态地给对象增加一些职责，即增加其额外的功能
+      * [装饰器模式（装饰设计模式）理论详解](http://c.biancheng.net/view/1366.html)
+      * [装饰者模式1 星巴克咖啡 ](https://www.youtube.com/watch?v=YEl7J4HBMQc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=71)
+      * [装饰者模式2 星巴克咖啡](https://www.youtube.com/watch?v=W96Fn0DoHMs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=72)
+      * [装饰者模式3 工作原理](https://www.youtube.com/watch?v=t0nJHPM0QdE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=74)
+      * [装饰者模式4 星巴克咖啡](https://www.youtube.com/watch?v=Ft6IMa04Nj4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=74)
+      * [装饰者模式5 IO源码](https://www.youtube.com/watch?v=nBtzeXrQlOU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=75)
+      * [装饰者模式6 内容梳理](https://www.youtube.com/watch?v=3CMT4tbDVjE&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=76)
     * 享元模式（Flyweight Pattern）－－－运用共享技术来有效地支持大量细粒度对象的复用
+      * [享元模式（详解版）理论详解](http://c.biancheng.net/view/1371.html)
+      * [享元模式1 网站外包](https://www.youtube.com/watch?v=ctxTg5nQxAc&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=86)
+      * [享元模式2 工作原理](https://www.youtube.com/watch?v=oGz1LTK6TGQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=87) 
+      * [享元模式3 网站外包](https://www.youtube.com/watch?v=R8v0jKZc1OQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=88)
+      * [ 享元模式4 Integer源码](https://www.youtube.com/watch?v=xOezzkS2FGk&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=89)
+      * [享元模式5 内容梳理](https://www.youtube.com/watch?v=ACApqar-I3g&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=90)
     * 组合模式（Composite Pattern）－－－将对象组合成树状层次结构，使用户对单个对象和组合对象具有一致的访问性
+      * [组合模式（详解版）理论详解](http://c.biancheng.net/view/1373.html) 
+      * [组合模式1 院校展示](https://www.youtube.com/watch?v=GyeU-Uk4E1k&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=77)
+      * [组合模式2 院校展示](https://www.youtube.com/watch?v=0WCX8Cga11k&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=78)
+      * [组合模式3 HashMap源码](https://www.youtube.com/watch?v=2RJXZb_Zmys&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=79)
+      * [组合模式4 内容梳理](https://www.youtube.com/watch?v=Xia_UPxhZ4A&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=80)
     * 适配器模式（Adapter Pattern）－－－将一个类的接口转换成客户希望的另外一个接口，使得原本由于接口不兼容而不能一起工作的那些类能一起工作
+      * [适配器模式（Adapter模式）理论详解](http://c.biancheng.net/view/1361.html)
       * [适配器模式 工作原理](https://www.youtube.com/watch?v=PizwFKStOLA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=60)
       * [类适配器 电压问题](https://www.youtube.com/watch?v=xakIsT-AP5c&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=61)
       * [对象适配器 电压问题](https://www.youtube.com/watch?v=W_7UnvcGSVw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=62)
@@ -101,6 +126,12 @@
       * [适配器模式 Dispatcher源码](https://www.youtube.com/watch?v=MLCqHINNUos&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=64)
       * [适配器模式 内容梳理](https://www.youtube.com/watch?v=YzIjzWop-K4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=65) 
     * 桥接模式（Bridge Pattern）－－－将抽象与实现分离，使它们可以独立变化。它是用组合关系代替继承关系来实现的，从而降低了抽象和实现这两个可变维度的耦合度 
+      * [桥接模式（Bridge模式）详解](http://c.biancheng.net/view/1364.html)
+      * [桥接模式1 手机问题](https://www.youtube.com/watch?v=ZR5PNFywiSo&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=66)
+      * [桥接模式2 原理类图](https://www.youtube.com/watch?v=4LBH_la1PIs&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=67)
+      * [桥接模式3 手机问题](https://www.youtube.com/watch?v=eFpj0p3h6pA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=68)
+      * [桥接模式4 JDBC源码](https://www.youtube.com/watch?v=jSd1KwfSLo4&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=69)
+      * [桥接模式5 内容梳理](https://www.youtube.com/watch?v=-luaJIbZ_C0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=70) 
   * 行为型设计模式（关注对象之间的通信）---行为型模式用于描述程序在运行时复杂的流程控制，即描述多个类或对象之间怎样相互协作共同完成单个对象都无法单独完成的任务，它涉及算法与对象间职责的分配，行为型模式分为类行为模式和对象行为模式，前者采用继承机制来在类间分派行为，后者采用组合或聚合在对象间分配行为。由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象行为模式比类行为模式具有更大的灵活性
     * 模板模式（Template Pattern）－－－定义一个操作中的算法骨架，将算法的一些步骤延迟到子类中，使得子类在可以不改变该算法结构的情况下重定义该算法的某些特定步骤
     * 策略模式（Strategy Pattern）－－－定义了一系列算法，并将每个算法封装起来，使它们可以相互替换，且算法的改变不会影响使用算法的客户
