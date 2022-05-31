@@ -68,8 +68,8 @@
       * [单例线程安全懒汉式](https://www.youtube.com/watch?v=x44r711BCf8&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=32)
       * [单例同步代码块懒汉式](https://www.youtube.com/watch?v=u0bSH4VvGzU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=33)
       * [单例DoubleCheck](https://www.youtube.com/watch?v=TpdPsCGsFVk&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=34)
-      * [单例静态内部类](https://www.youtube.com/watch?v=fl129AGIrX0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=35)
-      * [单例枚举方式](https://www.youtube.com/watch?v=VsgFcL3T-fU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=36)
+      * [单例静态内部类---也就是一个类的构造方法在多线程环境下可以被正确地加载。这也是推荐使用的一种单例模式](https://www.youtube.com/watch?v=fl129AGIrX0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=35)
+      * [单例枚举方式--- Effective Java作者推荐的枚举单例（线程安全）实现Singleton的最佳方法](https://www.youtube.com/watch?v=VsgFcL3T-fU&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=36)
       * [单例模式JKD源码分析](https://www.youtube.com/watch?v=bP2t_LNxqWM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=37)
       * [单例模式注意事项](https://www.youtube.com/watch?v=UZF9iWhTI5s&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=38)
     * 原型模式（Prototype Pattern）－－－将一个对象作为原型，通过对其进行复制而克隆出多个和原型类似的新实例
