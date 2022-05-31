@@ -87,7 +87,7 @@
       * [建造者模式3 盖房子](https://www.youtube.com/watch?v=M4hHWPUTR1c&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=57)
       * [建造者模式4 StringBuilder源码](https://www.youtube.com/watch?v=fkflkrIEzqA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=58)
       * [建造者模式5 内容梳理](https://www.youtube.com/watch?v=BcwVLx6XLBA&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=59)
-  * 结构型设计模式（关注类和对象的组合）－－－结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者釆用组合或聚合来组合对象，由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象结构型模式比类结构型模式具有更大的灵活性，除了适配器模式分为类结构型模式和对象结构型模式两种，其他的全部属于对象结构型模式
+  * 结构型设计模式（关注类和对象的组合）－－－结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者釆用组合或聚合来组合对象，由于组合关系或聚合关系比继承关系耦合度低，满足“合成复用原则”，所以对象结构型模式比类结构型模式具有更大的灵活性，**除了适配器模式分为类结构型模式和对象结构型模式两种，其他的全部属于对象结构型模式**
     * 代理模式（Proxy Pattern）－－－为某对象提供一种代理以控制对该对象的访问。即客户端通过代理间接地访问该对象，从而限制、增强或修改该对象的一些特性
       * [代理模式（代理设计模式）理论详解](http://c.biancheng.net/view/1359.html)
       * [代理模式1 基本介绍](https://www.youtube.com/watch?v=BmGNorWEPSI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=91)
