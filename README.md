@@ -53,6 +53,8 @@
 # [面向对象设计---OOD](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD/README.md)
   * [面向对象的思考过程（原书第5版）---讲述了面向对象思考的过程](https://weread.qq.com/web/reader/b7d3230072620d8db7d5a67)
 
+## [UML建模](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/UML)
+
 ## 设计模式
 * [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
