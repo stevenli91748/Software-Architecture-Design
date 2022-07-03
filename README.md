@@ -50,6 +50,9 @@
 
 # 在线书籍
 
+# 面向对象设计---OOD
+* [面向对象的思考过程（原书第5版）](https://weread.qq.com/web/reader/b7d3230072620d8db7d5a67)
+
 ## 设计模式
 * [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
@@ -294,6 +297,7 @@
   * [Software Architecture and Design](https://www.youtube.com/c/ADevStory)
   * [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
   * [软件设计是怎样炼成的](https://edu.51cto.com/course/5568.html)
+
 # 参考的资料
   * [架结构分层：三层结构，DDD，MVC，MVVM，MVP](http://www.360doc.com/content/20/1114/16/37113458_945826321.shtml)
   * [关于低代码编程的可持续性交付设计和分析](https://bugstack.cn/framework/2021/02/21/%E5%85%B3%E4%BA%8E%E4%BD%8E%E4%BB%A3%E7%A0%81%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7%E4%BA%A4%E4%BB%98%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%88%86%E6%9E%90.html)
@@ -321,3 +325,12 @@
   * [事件追踪系统设计系列2-输出事件追踪系统设计需求文档](https://www.jianshu.com/p/063d8107d18a)
   * [事件追踪系统设计系列3-事件追踪系统设计的框架设计及其准确性](https://www.jianshu.com/p/553ab7bb42c4)
   * [事件追踪系统设计系列4-从事件追踪系统的系统设计搭建到数据可视化落地](https://www.jianshu.com/p/2b43c823d059)
+
+## 综合性软件设计文档示例
+* [系统需求设计文档](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk02e32f0021b02e74f10ece8)
+* [需求分析---需求规格说明书](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk33e3289021c33e75ff09694)
+* [概要设计说明书](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk6ea321b021d6ea9ab1ba605)
+* [详细设计说明书](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk341323f021e34173cb3824c)
+* [编写程序](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bkc1632f5021fc16a5320f3dc)
+* [软件测试](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk636320102206364d3f0ffdc)
+
