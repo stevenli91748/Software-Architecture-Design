@@ -51,7 +51,7 @@
 # 在线书籍
 
 # 面向对象设计---OOD
-* [面向对象的思考过程（原书第5版）](https://weread.qq.com/web/reader/b7d3230072620d8db7d5a67)
+* [面向对象的思考过程（原书第5版）---讲述了面向对象思考的过程](https://weread.qq.com/web/reader/b7d3230072620d8db7d5a67)
 
 ## 设计模式
 * [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
