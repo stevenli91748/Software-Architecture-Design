@@ -13,6 +13,7 @@
 # 在线书籍
 
 * [UML基础与Rose建模实用教程](https://weread.qq.com/web/reader/d9132aa0721247c9d913ee8)
+* [“图解”产品，产品经理业务设计与UML建模](https://weread.qq.com/web/bookDetail/d38326107274b4f6d38c337)
 
 # 目录
 
