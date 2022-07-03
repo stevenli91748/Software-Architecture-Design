@@ -56,6 +56,7 @@
 ## [UML建模](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/UML)
 
 ## 设计模式
+* [人人都懂设计模式：从生活中领务设计模式](https://weread.qq.com/web/reader/e72323d071845588e729af0)
 * [设计模式就该这样学：基于经典框架源码和真实业务场景---2020](https://weread.qq.com/web/reader/8aa3282071f94a868aa8f52)
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 * [研磨设计模式](https://weread.qq.com/web/bookDetail/40632cb0811e1bc07g013a09)
