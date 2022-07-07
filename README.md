@@ -63,6 +63,7 @@
 
 
 ## 软件架构设计
+* [大话软件工程：需求分析与软件设计---2019 【good】](https://weread.qq.com/web/reader/9aa320f0726d717a9aa8bb1)
 * [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
 * [架构真意：企业级应用架构设计方法论与实践](https://weread.qq.com/web/reader/1c8329d072599d741c81d96)
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
