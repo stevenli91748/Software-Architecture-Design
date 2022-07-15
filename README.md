@@ -82,7 +82,7 @@
 * [软件架构设计： 大型网站技术架构与业务架构融合之道---2018](https://weread.qq.com/web/reader/ac4325c071848780ac4f8d8kc81322c012c81e728d9d180)
 * [可伸缩架构（第2版）： 云环境下的高可用与风险管理---2021](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
 * [分布式系统设计实践](https://weread.qq.com/web/reader/df832b00719db449df881a6)
-
+* [软件框架的设计---代表着业界最高的设计水准,对你学习软件框架的架构设计与实现原理同样会有非常大的帮助](https://weread.qq.com/web/reader/8f7329905933ac8f733b463)
 
 ### 邻域驱动设计(DDD)
 * [复杂软件设计之道： 邻域驱动设计全面解析与实战---2020](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
