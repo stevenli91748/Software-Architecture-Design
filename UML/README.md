@@ -15,6 +15,10 @@
 * [UML基础与Rose建模实用教程](https://weread.qq.com/web/reader/d9132aa0721247c9d913ee8)
 * [“图解”产品，产品经理业务设计与UML建模](https://weread.qq.com/web/bookDetail/d38326107274b4f6d38c337)
 
+# 视频
+* [UML项目设计----企业项目设计详解](https://edu.51cto.com/center/course/lesson/index?id=62092)
+
+
 # 目录
 
 # [1 UML图类型](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k1ff325f02181ff1de7742fc)
