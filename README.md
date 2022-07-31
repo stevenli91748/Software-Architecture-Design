@@ -90,6 +90,7 @@
 * [深入实践DDD: 以DSL驱动复杂软件开发---2021](https://weread.qq.com/web/reader/3f232740723b60233f23504)
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
 * [DDD（领域驱动设计）思想解读及优秀实践【完结】---视频](https://www.youtube.com/watch?v=LabDJVHeJNQ&list=PL-fouz1yopdqQjHMjBqdEvB40Fv2iyNAD&index=1)
+* [Springboot领域驱动开发](https://github.com/codingapi/springboot-framework)
 
 ### 微服务架构设计
 * [Spring微服务架构设计---2020](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8)
