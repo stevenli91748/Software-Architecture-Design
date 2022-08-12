@@ -87,6 +87,8 @@
 ### 邻域驱动设计(DDD)
 * [复杂软件设计之道： 邻域驱动设计全面解析与实战---2020](https://weread.qq.com/web/reader/95932e2072052ac7959169d)
 * [实现邻域驱动设计](https://weread.qq.com/web/reader/f5032ce071fd5a64f50b0f6)
+* [DDD 建模工作坊指南](http://domain-driven-design.org/zh/ddd-design-workshop-guide.html)
+* [事件风暴EventStorming建模法](https://www.jdon.com/eventstorming.html)
 * [深入实践DDD: 以DSL驱动复杂软件开发---2021](https://weread.qq.com/web/reader/3f232740723b60233f23504)
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
 * [DDD（领域驱动设计）思想解读及优秀实践【完结】---视频](https://www.youtube.com/watch?v=LabDJVHeJNQ&list=PL-fouz1yopdqQjHMjBqdEvB40Fv2iyNAD&index=1)
