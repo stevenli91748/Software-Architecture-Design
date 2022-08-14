@@ -93,7 +93,7 @@
 * [邻域驱动设计---2020](https://weread.qq.com/web/reader/44f32bb071e1265344f0481)
 * [DDD（领域驱动设计）思想解读及优秀实践【完结】---视频](https://www.youtube.com/watch?v=LabDJVHeJNQ&list=PL-fouz1yopdqQjHMjBqdEvB40Fv2iyNAD&index=1)
 * [Springboot领域驱动开发](https://github.com/codingapi/springboot-framework)
-
+* [DDD（领域驱动设计）DDD 微服务落地实战](https://www.soft1188.com/javabk/2628.html)
 ### 微服务架构设计
 * [Spring微服务架构设计---2020](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8)
 * [Spring 微服务架构设计---2020 如何用SpringBoot 和 Spring Cloud 开发微服务系统，如何演进微服务，微服务的日志管理和监控，如何用Docker, Mesos 和 Marathon管理互联网级微服务架构](https://weread.qq.com/web/reader/9de32c5071db56e39decfc8kc81322c012c81e728d9d180)
