@@ -6,8 +6,8 @@
 
 
 # 博客
-[Java设计模式：23种设计模式全面解析（超级详细）](http://c.biancheng.net/design_pattern/)|
----|
+[Java设计模式：23种设计模式全面解析（超级详细）](http://c.biancheng.net/design_pattern/)|[软件设计是怎样炼成的](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84)|
+---|---|
 
 
 # 目录
