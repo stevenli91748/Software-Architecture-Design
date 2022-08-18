@@ -135,6 +135,7 @@
 ---
 
 # 设计工具
+* [如何描述模型？从用户故事到通用语言的在线工具](https://www.youtube.com/watch?v=7XUgapBkYcI&list=PL-fouz1yopdqQjHMjBqdEvB40Fv2iyNAD&index=7)
 * [ProcessOn---专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制](https://www.processon.com/)
 
 # 领域驱动设计架构(DDD)
