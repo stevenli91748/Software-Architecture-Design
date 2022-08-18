@@ -4,6 +4,8 @@
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 * [研磨设计模式](https://weread.qq.com/web/bookDetail/40632cb0811e1bc07g013a09)
 
+# 设计模式视频
+* [给前端同学学的7种设计模式精讲课](https://www.youtube.com/watch?v=ze9ZWoDCI5I&list=PL-fouz1yopdqIi-FhQFRtuLgUSobGOnT4)
 
 # 博客
 [Java设计模式：23种设计模式全面解析（超级详细）](http://c.biancheng.net/design_pattern/)|[软件设计是怎样炼成的](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84)|
