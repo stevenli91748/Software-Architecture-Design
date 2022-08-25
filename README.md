@@ -61,7 +61,7 @@
 * [重学JAVA设计模式](https://weread.qq.com/web/reader/bcf32900724708cbbcf08c1)
 * [研磨设计模式](https://weread.qq.com/web/bookDetail/40632cb0811e1bc07g013a09)
 * [给前端同学学的7种设计模式精讲课](https://www.youtube.com/watch?v=ze9ZWoDCI5I&list=PL-fouz1yopdqIi-FhQFRtuLgUSobGOnT4)
-
+* [Spring 框架使用了哪些设计模式？](https://mp.weixin.qq.com/s/dtHqD5JvpRJc0rh1uU7-RQ)
 ## 软件架构设计
 * [大话软件工程：需求分析与软件设计---2019 【good】](https://weread.qq.com/web/reader/9aa320f0726d717a9aa8bb1)
 * [软件需求最佳实践](https://weread.qq.com/web/reader/b7a32c705a0369b7a68c833)
