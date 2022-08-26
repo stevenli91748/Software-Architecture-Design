@@ -162,6 +162,7 @@
       * [职责链模式3 采购审批](https://www.youtube.com/watch?v=8p55frWJdhI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=147)
       * [职责链模式4 SpringMVC源码](https://www.youtube.com/watch?v=x3vBJe0tjdw&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=148)
       * [职责链模式5 内容梳理](https://www.youtube.com/watch?v=1gwM-T7C4Y0&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=149) 
+      * [代码越写越乱？那是因为你没用责任链](https://mp.weixin.qq.com/s/S2NYxtmvZ3Lt3wFaI2iubw)
     * 迭代器模式（Iterator Pattern）－－－提供一种方法来顺序访问聚合对象中的一系列数据，而不暴露聚合对象的内部表示
       * [迭代器模式（详解版）理论详解](http://c.biancheng.net/view/1395.html)
       * [迭代器模式1 统一遍历问题](https://www.youtube.com/watch?v=VgYfTnsS-OQ&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=111)
