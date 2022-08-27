@@ -62,6 +62,8 @@
 * [研磨设计模式](https://weread.qq.com/web/bookDetail/40632cb0811e1bc07g013a09)
 * [给前端同学学的7种设计模式精讲课](https://www.youtube.com/watch?v=ze9ZWoDCI5I&list=PL-fouz1yopdqIi-FhQFRtuLgUSobGOnT4)
 * [Spring 框架使用了哪些设计模式？](https://mp.weixin.qq.com/s/dtHqD5JvpRJc0rh1uU7-RQ)
+* [微服务架构中的10个最重要的设计模式](https://mp.weixin.qq.com/s/n1tIij0sitYy7vW1PUAzHg)
+
 
 ## 软件架构设计
 * [从程序员到架构师：大数据量、缓存、高并发、微服务、多团队协同等核心 2022](https://weread.qq.com/web/reader/d5532b10813ab6da3g0189c9)
