@@ -339,6 +339,7 @@
   * [事件追踪系统设计系列4-从事件追踪系统的系统设计搭建到数据可视化落地](https://www.jianshu.com/p/2b43c823d059)
 
 ## 综合性软件设计文档示例
+* [Software Requirements Specification document with example](https://krazytech.com/projects/sample-software-requirements-specificationsrs-report-airline-database)
 * [Your 2022 Guide to Writing a Software Requirements Specification (SRS) Document](https://relevant.software/blog/software-requirements-specification-srs-document/)
 * [系统需求设计文档](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk02e32f0021b02e74f10ece8)
 * [需求分析---需求规格说明书](https://weread.qq.com/web/reader/9cf320105bcd2a9cf2c7e3bk33e3289021c33e75ff09694)
