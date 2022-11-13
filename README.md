@@ -47,8 +47,11 @@
 [[2020.01加一套题]UMLChina建模竞赛题大全-题目全文+分卷自测（11套110题）---潘加宇](https://mp.weixin.qq.com/s/GDfIMgdZ8VWWmrNF-axmsw)|[UMLChina建模竞赛题答案及解析------潘加宇](http://www.umlchina.com/training/quizanswer.html)|
 ---|---|
 
+---
 
 # [电商系统设计开发实例](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E7%94%B5%E5%95%86%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B/README.md)
+
+---
 
 # 在线书籍
 
