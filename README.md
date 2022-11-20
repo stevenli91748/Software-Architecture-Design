@@ -118,7 +118,8 @@
 
 ## API设计
 * [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
-
+* [22条API设计的最佳实践](https://mp.weixin.qq.com/s/IRY2j-YjFXATkgzCN9zlMg)
+* [面试题：接口幂等性是什么？如何设计？](https://mp.weixin.qq.com/s/8dLGA_JXHlZD_U-m6Hgn_g)
 ### Serverless(无服务器架构)
 * [Serverless架构---2020](https://weread.qq.com/web/reader/c8a32e205e2f83c8a87fa85)
 * [Serverless工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
