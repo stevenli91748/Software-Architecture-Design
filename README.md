@@ -317,6 +317,7 @@
   * [软件设计是怎样炼成的](https://edu.51cto.com/course/5568.html)
 
 # 参考的资料
+  * [【SpringBoot】model层、dao层、service层、controller层 详解](https://blog.csdn.net/weixin_44100826/article/details/103230460?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-103230460-blog-85017551.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
   * [架结构分层：三层结构，DDD，MVC，MVVM，MVP](http://www.360doc.com/content/20/1114/16/37113458_945826321.shtml)
   * [关于低代码编程的可持续性交付设计和分析](https://bugstack.cn/framework/2021/02/21/%E5%85%B3%E4%BA%8E%E4%BD%8E%E4%BB%A3%E7%A0%81%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7%E4%BA%A4%E4%BB%98%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%88%86%E6%9E%90.html)
   * [软件架构编年史：MVC及其变种](https://developer.51cto.com/art/202104/656839.htm)
