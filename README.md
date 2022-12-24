@@ -34,6 +34,9 @@
 
 <a href="https://ibb.co/NSXBMgD"><img src="https://i.ibb.co/74HmqxM/2.png" alt="2" border="0"></a>
 
+[架构设计名词解析]()|
+---|
+
 
 [火龙果软件架构设计---softwear archietcure good](http://wenku.uml.com.cn/index.asp)|[架构设计的本质](https://www.kubernetes.org.cn/8510.html)|
  ---|---|
