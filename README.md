@@ -18,6 +18,7 @@
 
 # [最好的软件架构设计书籍](https://segmentfault.com/a/1190000011881339?utm_source=sf-related)
 
+# [ P8 工程师学习路径](https://tulingxueyuan.cn/xxlx/kcdg/)
 
 
 ---
