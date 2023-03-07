@@ -42,7 +42,7 @@
     * [ 迪米特法则注意事项](https://www.youtube.com/watch?v=BckXGW0gQuI&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=21)
   * 7 合成复用原则
     * [合成复用原则及小结](https://www.youtube.com/watch?v=LKf2W3TjxOM&list=PLmOn9nNkQxJH-C-qEI2rpewHTI9ITpMkt&index=22) 
-* 23设计模式
+* 23种设计模式
 * 多线程设计模式
   * [一句话归纳23设计模式 ](http://c.biancheng.net/view/8462.html)
   * 创建型设计模式（简单来说就是用来创建对象的）---创建型模式的主要关注点是“怎样创建对象？”，它的主要特点是“将对象的创建与使用分离”。这样可以降低系统的耦合度，使用者不需要关注对象的创建细节，对象的创建由相关的工厂来完成,**除了工厂方法模式属于类创建型模式，其他的全部属于对象创建型模式**
